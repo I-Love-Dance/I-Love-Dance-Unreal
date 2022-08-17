@@ -1,0 +1,1330 @@
+﻿Log file open, 03/08/22 11:15:15
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=16244)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Oblivion_house_test
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-19044958"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.0-19044958+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" E:/UNREAL/Projects/Oblivion_house_test/Oblivion_house_test.uproject""
+LogCsvProfiler: Display: Metadata set : os="Windows 10 (21H2) "
+LogCsvProfiler: Display: Metadata set : cpu="AuthenticAMD|AMD Ryzen 7 2700 Eight-Core Processor"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="3e7313f64f6cb62080802c806958f33b"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 0.924752
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -4:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-0665155B4F4AFF12E4363AA33BB7AC82
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading Mac ini files took 0.04 seconds
+LogConfig: Display: Loading VulkanPC ini files took 0.04 seconds
+LogConfig: Display: Loading Android ini files took 0.04 seconds
+LogConfig: Display: Loading HoloLens ini files took 0.04 seconds
+LogConfig: Display: Loading IOS ini files took 0.04 seconds
+LogConfig: Display: Loading TVOS ini files took 0.05 seconds
+LogConfig: Display: Loading Unix ini files took 0.05 seconds
+LogConfig: Display: Loading Windows ini files took 0.05 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.05 seconds
+LogConfig: Display: Loading Linux ini files took 0.05 seconds
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin StylusInput
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin GeometryFlow
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin MotoSynth
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin OpenXR
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPluginManager: Mounting Engine plugin OculusVR
+LogPluginManager: Mounting Engine plugin SteamVR
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MotoSynth/Content/' mounted to '/MotoSynth/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/OpenXR/Content/' mounted to '/OpenXR/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Oculus/OculusVR/Content/' mounted to '/OculusVR/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Steam/SteamVR/Content/' mounted to '/SteamVR/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.65.0
+LogInit: Build: ++UE5+Release-5.0-CL-19044958
+LogInit: Engine Version: 5.0.0-19044958+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-16433597+++UE5+Release-5.0
+LogInit: Net CL: 16433597
+LogInit: OS: Windows 10 (21H2) (), CPU: AMD Ryzen 7 2700 Eight-Core Processor          , GPU: NVIDIA GeForce GTX 1080
+LogInit: Compiled (64-bit): Feb 18 2022 01:49:56
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line: 
+LogInit: Base Directory: E:/UNREAL/Epic Games/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 31
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2022.03.08-15.15.16:691][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2022.03.08-15.15.16:691][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2022.03.08-15.15.16:691][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2022.03.08-15.15.16:691][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2022.03.08-15.15.16:691][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2022.03.08-15.15.16:691][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2022.03.08-15.15.16:691][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2022.03.08-15.15.16:691][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2022.03.08-15.15.16:691][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2022.03.08-15.15.16:691][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2022.03.08-15.15.16:691][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2022.03.08-15.15.16:691][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2022.03.08-15.15.16:691][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2022.03.08-15.15.16:691][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2022.03.08-15.15.16:692][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2022.03.08-15.15.16:692][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2022.03.08-15.15.16:692][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2022.03.08-15.15.16:692][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2022.03.08-15.15.16:692][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2022.03.08-15.15.16:692][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2022.03.08-15.15.16:692][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2022.03.08-15.15.16:692][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2022.03.08-15.15.16:692][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2022.03.08-15.15.16:692][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2022.03.08-15.15.16:692][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2022.03.08-15.15.16:692][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2022.03.08-15.15.16:692][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.03.08-15.15.16:692][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2022.03.08-15.15.16:692][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.03.08-15.15.16:692][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2022.03.08-15.15.16:692][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2022.03.08-15.15.16:692][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2022.03.08-15.15.16:692][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2022.03.08-15.15.16:692][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2022.03.08-15.15.16:692][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2022.03.08-15.15.16:692][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2022.03.08-15.15.16:692][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2022.03.08-15.15.16:692][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2022.03.08-15.15.16:692][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2022.03.08-15.15.16:692][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2022.03.08-15.15.16:692][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2022.03.08-15.15.16:692][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.03.08-15.15.16:692][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.03.08-15.15.16:692][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2022.03.08-15.15.16:692][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2022.03.08-15.15.16:692][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2022.03.08-15.15.16:692][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2022.03.08-15.15.16:692][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2022.03.08-15.15.16:692][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2022.03.08-15.15.16:692][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2022.03.08-15.15.16:692][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2022.03.08-15.15.16:692][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2022.03.08-15.15.16:692][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2022.03.08-15.15.16:692][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2022.03.08-15.15.16:692][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2022.03.08-15.15.16:692][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2022.03.08-15.15.16:692][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2022.03.08-15.15.16:719][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2022.03.08-15.15.16:719][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2022.03.08-15.15.16:719][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2022.03.08-15.15.16:719][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2022.03.08-15.15.16:719][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2022.03.08-15.15.16:719][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2022.03.08-15.15.16:719][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2022.03.08-15.15.16:720][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2022.03.08-15.15.16:720][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2022.03.08-15.15.16:720][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2022.03.08-15.15.16:720][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2022.03.08-15.15.16:728][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2022.03.08-15.15.16:789][  0]LogHMD: Failed to initialize OpenVR with code 108
+[2022.03.08-15.15.16:789][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.03.08-15.15.16:790][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_1
+[2022.03.08-15.15.16:790][  0]LogD3D11RHI: D3D11 adapters:
+[2022.03.08-15.15.16:790][  0]LogD3D11RHI: Testing D3D11 Adapter 0:
+[2022.03.08-15.15.16:790][  0]LogD3D11RHI:     Description : NVIDIA GeForce GTX 1080
+[2022.03.08-15.15.16:790][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.03.08-15.15.16:790][  0]LogD3D11RHI:     DeviceId    : 1b80
+[2022.03.08-15.15.16:790][  0]LogD3D11RHI:     SubSysId    : 33621462
+[2022.03.08-15.15.16:790][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.03.08-15.15.16:790][  0]LogD3D11RHI:     DedicatedVideoMemory : 8471445504 bytes
+[2022.03.08-15.15.16:790][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.03.08-15.15.16:790][  0]LogD3D11RHI:     SharedSystemMemory : 17140860928 bytes
+[2022.03.08-15.15.16:790][  0]LogD3D11RHI:     AdapterLuid : 0 63380
+[2022.03.08-15.15.16:875][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080' (Feature Level 11_1)
+[2022.03.08-15.15.16:875][  0]LogD3D11RHI:       8079/0/16346 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:4, VendorId:0x10de
+[2022.03.08-15.15.16:875][  0]LogD3D11RHI: Testing D3D11 Adapter 1:
+[2022.03.08-15.15.16:875][  0]LogD3D11RHI:     Description : Radeon (TM) RX 480 Graphics
+[2022.03.08-15.15.16:875][  0]LogD3D11RHI:     VendorId    : 1002
+[2022.03.08-15.15.16:875][  0]LogD3D11RHI:     DeviceId    : 67df
+[2022.03.08-15.15.16:875][  0]LogD3D11RHI:     SubSysId    : 4fb1043
+[2022.03.08-15.15.16:875][  0]LogD3D11RHI:     Revision    : 00c7
+[2022.03.08-15.15.16:875][  0]LogD3D11RHI:     DedicatedVideoMemory : 8568795136 bytes
+[2022.03.08-15.15.16:875][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.03.08-15.15.16:875][  0]LogD3D11RHI:     SharedSystemMemory : 17140860928 bytes
+[2022.03.08-15.15.16:875][  0]LogD3D11RHI:     AdapterLuid : 0 66739
+[2022.03.08-15.15.16:919][  0]LogD3D11RHI:    1. 'Radeon (TM) RX 480 Graphics' (Feature Level 11_1)
+[2022.03.08-15.15.16:919][  0]LogD3D11RHI:       8171/0/16346 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x1002
+[2022.03.08-15.15.16:919][  0]LogD3D11RHI: Testing D3D11 Adapter 2:
+[2022.03.08-15.15.16:919][  0]LogD3D11RHI:     Description : Microsoft Basic Render Driver
+[2022.03.08-15.15.16:919][  0]LogD3D11RHI:     VendorId    : 1414
+[2022.03.08-15.15.16:919][  0]LogD3D11RHI:     DeviceId    : 008c
+[2022.03.08-15.15.16:919][  0]LogD3D11RHI:     SubSysId    : 0000
+[2022.03.08-15.15.16:919][  0]LogD3D11RHI:     Revision    : 0000
+[2022.03.08-15.15.16:919][  0]LogD3D11RHI:     DedicatedVideoMemory : 0 bytes
+[2022.03.08-15.15.16:919][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.03.08-15.15.16:919][  0]LogD3D11RHI:     SharedSystemMemory : 17140860928 bytes
+[2022.03.08-15.15.16:919][  0]LogD3D11RHI:     AdapterLuid : 0 66688
+[2022.03.08-15.15.16:921][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_1)
+[2022.03.08-15.15.16:921][  0]LogD3D11RHI:       0/0/16346 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.03.08-15.15.16:921][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2022.03.08-15.15.16:921][  0]LogD3D11RHI:     Description : NVIDIA GeForce GTX 1080
+[2022.03.08-15.15.16:921][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.03.08-15.15.16:921][  0]LogD3D11RHI:     DeviceId    : 1b80
+[2022.03.08-15.15.16:921][  0]LogD3D11RHI:     SubSysId    : 33621462
+[2022.03.08-15.15.16:921][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.03.08-15.15.16:921][  0]LogD3D11RHI:     DedicatedVideoMemory : 8471445504 bytes
+[2022.03.08-15.15.16:921][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.03.08-15.15.16:921][  0]LogD3D11RHI:     SharedSystemMemory : 17140860928 bytes
+[2022.03.08-15.15.16:921][  0]LogD3D11RHI:     AdapterLuid : 0 63380
+[2022.03.08-15.15.16:921][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.03.08-15.15.16:921][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2022.03.08-15.15.16:922][  0]LogHAL: Display: Platform has ~ 32 GB [34281721856 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.03.08-15.15.16:922][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2022.03.08-15.15.16:922][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2022.03.08-15.15.16:922][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.03.08-15.15.16:922][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2022.03.08-15.15.16:922][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [E:/UNREAL/Projects/Oblivion_house_test/Saved/Config/WindowsEditor/Editor.ini]
+[2022.03.08-15.15.16:922][  0]LogInit: Computer: JONATHAN-PC
+[2022.03.08-15.15.16:922][  0]LogInit: User: Jonathan
+[2022.03.08-15.15.16:922][  0]LogInit: CPU Page size=4096, Cores=8
+[2022.03.08-15.15.16:922][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.03.08-15.15.16:922][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2022.03.08-15.15.16:922][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2022.03.08-15.15.16:922][  0]LogMemory: Process Physical Memory: 280.34 MB used, 283.98 MB peak
+[2022.03.08-15.15.16:922][  0]LogMemory: Process Virtual Memory: 251.64 MB used, 251.64 MB peak
+[2022.03.08-15.15.16:922][  0]LogMemory: Physical Memory: 12289.85 MB used,  20403.75 MB free, 32693.60 MB total
+[2022.03.08-15.15.16:922][  0]LogMemory: Virtual Memory: 16386.93 MB used,  23497.30 MB free, 39884.23 MB total
+[2022.03.08-15.15.16:922][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2022.03.08-15.15.16:929][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.03.08-15.15.16:944][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2022.03.08-15.15.16:945][  0]LogInit: Using OS detected language (es-MX).
+[2022.03.08-15.15.16:945][  0]LogInit: Using OS detected locale (es-VE).
+[2022.03.08-15.15.16:948][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/es-MX/Editor.locres' could not be opened for reading!
+[2022.03.08-15.15.16:948][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/es-MX/EditorTutorials.locres' could not be opened for reading!
+[2022.03.08-15.15.16:948][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/es-MX/Keywords.locres' could not be opened for reading!
+[2022.03.08-15.15.16:949][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/es-MX/Category.locres' could not be opened for reading!
+[2022.03.08-15.15.16:949][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/es-MX/ToolTips.locres' could not be opened for reading!
+[2022.03.08-15.15.16:949][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/es-MX/PropertyNames.locres' could not be opened for reading!
+[2022.03.08-15.15.16:949][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/es-MX/Engine.locres' could not be opened for reading!
+[2022.03.08-15.15.16:949][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystemUtils/Content/Localization/OnlineSubsystemUtils/es-MX/OnlineSubsystemUtils.locres' could not be opened for reading!
+[2022.03.08-15.15.16:949][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/Content/Localization/OnlineSubsystemGooglePlay/es-MX/OnlineSubsystemGooglePlay.locres' could not be opened for reading!
+[2022.03.08-15.15.16:949][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/IOS/OnlineSubsystemIOS/Content/Localization/OnlineSubsystemIOS/es-MX/OnlineSubsystemIOS.locres' could not be opened for reading!
+[2022.03.08-15.15.16:975][  0]LogInit: Setting process to per monitor DPI aware
+[2022.03.08-15.15.16:989][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2022.03.08-15.15.16:990][  0]LogWindowsTextInputMethodSystem:   - Español (Venezuela) - (Keyboard).
+[2022.03.08-15.15.16:990][  0]LogWindowsTextInputMethodSystem:   - Español (México) - (Keyboard).
+[2022.03.08-15.15.16:990][  0]LogWindowsTextInputMethodSystem:   - Español (Venezuela) - Corrección de entrada táctil (TSF IME).
+[2022.03.08-15.15.16:990][  0]LogWindowsTextInputMethodSystem: Activated input method: Español (Venezuela) - (Keyboard).
+[2022.03.08-15.15.17:040][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.03.08-15.15.17:040][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.03.08-15.15.17:221][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.03.08-15.15.17:221][  0]LogD3D11RHI:     GPU DeviceId: 0x1b80 (for the marketing name, search the web for "GPU Device Id")
+[2022.03.08-15.15.17:221][  0]LogWindows: EnumDisplayDevices:
+[2022.03.08-15.15.17:221][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080' (P:1 D:1)
+[2022.03.08-15.15.17:222][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080' (P:0 D:1)
+[2022.03.08-15.15.17:222][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080' (P:0 D:1)
+[2022.03.08-15.15.17:222][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:0 D:1)
+[2022.03.08-15.15.17:222][  0]LogWindows:    4. 'Radeon (TM) RX 480 Graphics' (P:0 D:1)
+[2022.03.08-15.15.17:223][  0]LogWindows:    5. 'Radeon (TM) RX 480 Graphics' (P:0 D:0)
+[2022.03.08-15.15.17:223][  0]LogWindows:    6. 'Radeon (TM) RX 480 Graphics' (P:0 D:0)
+[2022.03.08-15.15.17:224][  0]LogWindows:    7. 'Radeon (TM) RX 480 Graphics' (P:0 D:0)
+[2022.03.08-15.15.17:224][  0]LogWindows:    8. 'Radeon (TM) RX 480 Graphics' (P:0 D:0)
+[2022.03.08-15.15.17:224][  0]LogWindows:    9. 'Radeon (TM) RX 480 Graphics' (P:0 D:0)
+[2022.03.08-15.15.17:225][  0]LogWindows:    10. 'Radeon (TM) RX 480 Graphics' (P:0 D:0)
+[2022.03.08-15.15.17:225][  0]LogWindows:    11. 'Radeon (TM) RX 480 Graphics' (P:0 D:0)
+[2022.03.08-15.15.17:225][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2022.03.08-15.15.17:225][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080
+[2022.03.08-15.15.17:225][  0]LogD3D11RHI:   Driver Version: 457.51 (internal:27.21.14.5751, unified:457.51)
+[2022.03.08-15.15.17:225][  0]LogD3D11RHI:      Driver Date: 11-22-2020
+[2022.03.08-15.15.17:225][  0]LogRHI: Texture pool is 5655 MB (70% of 8079 MB)
+[2022.03.08-15.15.17:225][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2022.03.08-15.15.17:225][  0]LogD3D11RHI:     Description : NVIDIA GeForce GTX 1080
+[2022.03.08-15.15.17:225][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.03.08-15.15.17:225][  0]LogD3D11RHI:     DeviceId    : 1b80
+[2022.03.08-15.15.17:225][  0]LogD3D11RHI:     SubSysId    : 33621462
+[2022.03.08-15.15.17:225][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.03.08-15.15.17:225][  0]LogD3D11RHI:     DedicatedVideoMemory : 8471445504 bytes
+[2022.03.08-15.15.17:225][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.03.08-15.15.17:225][  0]LogD3D11RHI:     SharedSystemMemory : 17140860928 bytes
+[2022.03.08-15.15.17:225][  0]LogD3D11RHI:     AdapterLuid : 0 63380
+[2022.03.08-15.15.17:364][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2022.03.08-15.15.17:364][  0]LogD3D11RHI: Async texture creation enabled
+[2022.03.08-15.15.17:364][  0]LogD3D11RHI: D3D11_MAP_WRITE_NO_OVERWRITE for dynamic buffer SRVs is supported
+[2022.03.08-15.15.17:364][  0]LogD3D11RHI: Array index from any shader is supported
+[2022.03.08-15.15.17:393][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2022.03.08-15.15.17:410][  0]LogRHI: GeForceNow SDK initialized: 1
+[2022.03.08-15.15.17:417][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="E:/UNREAL/Projects/Oblivion_house_test/Oblivion_house_test.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="E:/UNREAL/Projects/Oblivion_house_test/Intermediate/TurnkeyReport_0.log" -log="E:/UNREAL/Projects/Oblivion_house_test/Intermediate/TurnkeyLog_0.log" -project="E:/UNREAL/Projects/Oblivion_house_test/Oblivion_house_test.uproject"  -platform=all'
+[2022.03.08-15.15.17:417][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""E:/UNREAL/Epic Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="E:/UNREAL/Projects/Oblivion_house_test/Oblivion_house_test.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="E:/UNREAL/Projects/Oblivion_house_test/Intermediate/TurnkeyReport_0.log" -log="E:/UNREAL/Projects/Oblivion_house_test/Intermediate/TurnkeyLog_0.log" -project="E:/UNREAL/Projects/Oblivion_house_test/Oblivion_house_test.uproject"  -platform=all" ]
+[2022.03.08-15.15.17:444][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2022.03.08-15.15.17:452][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2022.03.08-15.15.17:452][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2022.03.08-15.15.17:461][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.03.08-15.15.17:461][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.03.08-15.15.17:461][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.03.08-15.15.17:461][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.03.08-15.15.17:461][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.03.08-15.15.17:461][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.03.08-15.15.17:461][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.03.08-15.15.17:461][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.03.08-15.15.17:461][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.03.08-15.15.17:461][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.03.08-15.15.17:464][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2022.03.08-15.15.17:464][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2022.03.08-15.15.17:468][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.03.08-15.15.17:468][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.03.08-15.15.17:472][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.03.08-15.15.17:472][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2022.03.08-15.15.17:472][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.03.08-15.15.17:472][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.03.08-15.15.17:475][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2022.03.08-15.15.17:475][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2022.03.08-15.15.17:475][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2022.03.08-15.15.17:479][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.03.08-15.15.17:479][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.03.08-15.15.17:485][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.03.08-15.15.17:485][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2022.03.08-15.15.17:485][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.03.08-15.15.17:485][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.03.08-15.15.17:485][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2022.03.08-15.15.17:493][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.03.08-15.15.17:496][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2022.03.08-15.15.17:496][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2022.03.08-15.15.17:496][  0]LogTargetPlatformManager:   ADPCM
+[2022.03.08-15.15.17:496][  0]LogTargetPlatformManager:   PCM
+[2022.03.08-15.15.17:499][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2022.03.08-15.15.17:499][  0]LogTargetPlatformManager:   BINKA
+[2022.03.08-15.15.17:499][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2022.03.08-15.15.17:499][  0]LogTargetPlatformManager:   OGG
+[2022.03.08-15.15.17:499][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2022.03.08-15.15.17:499][  0]LogTargetPlatformManager:   OPUS
+[2022.03.08-15.15.17:540][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2022.03.08-15.15.17:546][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2022.03.08-15.15.17:546][  0]LogTargetPlatformManager:   SF_METAL
+[2022.03.08-15.15.17:546][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2022.03.08-15.15.17:546][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2022.03.08-15.15.17:546][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2022.03.08-15.15.17:546][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2022.03.08-15.15.17:546][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2022.03.08-15.15.17:546][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2022.03.08-15.15.17:546][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2022.03.08-15.15.17:546][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2022.03.08-15.15.17:546][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2022.03.08-15.15.17:546][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2022.03.08-15.15.17:546][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2022.03.08-15.15.17:546][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2022.03.08-15.15.17:546][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2022.03.08-15.15.17:546][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2022.03.08-15.15.17:549][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2022.03.08-15.15.17:549][  0]LogTargetPlatformManager:   VVM_1_0
+[2022.03.08-15.15.17:549][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2022.03.08-15.15.17:549][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2022.03.08-15.15.17:549][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2022.03.08-15.15.17:549][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2022.03.08-15.15.17:550][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2022.03.08-15.15.17:550][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.03.08-15.15.17:550][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../Projects/Oblivion_house_test/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2022.03.08-15.15.17:550][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.03.08-15.15.17:550][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../Projects/Oblivion_house_test/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2022.03.08-15.15.17:550][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.03.08-15.15.17:553][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Projects/Oblivion_house_test/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.03.08-15.15.17:553][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2022.03.08-15.15.17:553][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Projects/Oblivion_house_test/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.03.08-15.15.17:553][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2022.03.08-15.15.17:576][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (943 MiB)
+[2022.03.08-15.15.17:576][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.03.08-15.15.17:576][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2022.03.08-15.15.17:585][  0]LogDerivedDataCache: Speed tests for C:/Users/Jonathan/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2022.03.08-15.15.17:585][  0]LogDerivedDataCache: Display: Performance to C:/Users/Jonathan/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.03ms. RandomReadSpeed=1091.57MBs, RandomWriteSpeed=123.49MBs. Assigned SpeedClass 'Local'
+[2022.03.08-15.15.17:587][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Jonathan/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.03.08-15.15.17:587][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.03.08-15.15.17:587][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2022.03.08-15.15.17:594][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2022.03.08-15.15.17:594][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2022.03.08-15.15.17:595][  0]LogShaderCompilers: Guid format shader working directory is 6 characters bigger than the processId version (../../../../../Projects/Oblivion_house_test/Intermediate/Shaders/WorkingDirectory/4852/).
+[2022.03.08-15.15.17:595][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Jonathan/AppData/Local/Temp/UnrealShaderWorkingDir/E1B524874D8BB34CFA4577B8DFA423EE/'.
+[2022.03.08-15.15.17:595][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.03.08-15.15.17:595][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 8 workers.
+[2022.03.08-15.15.19:241][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2022.03.08-15.15.19:241][  0]LogSlate: Using FreeType 2.10.0
+[2022.03.08-15.15.19:241][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.03.08-15.15.19:274][  0]LogAssetRegistry: FAssetRegistry took 0.0128 seconds to start up
+[2022.03.08-15.15.19:281][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2022.03.08-15.15.19:558][  0]LogSerialization: UsePackageTrailer: 'false'
+[2022.03.08-15.15.19:559][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2022.03.08-15.15.19:825][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.03.08-15.15.19:825][  0]LogDeviceProfileManager: Active device profile: [00000485CF11F500][00000485B0DD2800 50] WindowsEditor
+[2022.03.08-15.15.19:825][  0]LogDeviceProfileManager: Profiles: [00000485CF11F6C0][00000485BCDA2800 50] Windows, [00000485CF11F500][00000485B0DD2800 50] WindowsEditor, [00000485CF11AD40][00000485CF570000 50] WindowsServer, [00000485CF11EFC0][00000485CF575000 50] WindowsClient, [00000485CF11A9C0][00000485CF577800 50] IOS, [00000485CF11EA80][00000485CF57A000 50] iPadAir, [00000485CF1194C0][00000485CF57C800 50] iPadAir2, [00000485CF660540][00000485CF600000 50] IPadPro, [00000485CF6608C0][00000485CF602800 50] iPadAir3, [00000485CF663800][00000485CF607800 50] iPadAir4, [00000485CF661880][00000485CF60A000 50] iPadMini2, [00000485CF662BC0][00000485CF60C800 50] iPadMini3, [00000485CF661F80][00000485BCD27800 50] iPadMini4, [00000485CF6624C0][00000485CF605000 50] iPadMini5, [00000485CF666E40][00000485CF5E2800 50] iPhone6, [00000485CF6671C0][00000485CF5E0000 50] iPodTouch6, [00000485CF667000][00000485CF5EA000 50] iPhone7, [00000485CF666C80][00000485CF5E7800 50] iPodTouch7, [00000485CF660FC0][00000485CF5EC800 50] iPhone5S, [00000485CF665E80][00000485CF572800 50] iPhone6Plus, [00000485CF666900][00000485CF610000 50] iPhone6S, [00000485CF6601C0][00000485CF615000 50] iPhone6SPlus, [00000485CF664EC0][00000485CF617800 50] iPhone7Plus, [00000485CF661C00][00000485CF61A000 50] iPhoneSE, [00000485CF667C40][00000485CF61C800 50] iPhone8, [00000485CF665CC0][00000485CF5E5000 50] iPhone8Plus, [00000485CF662D80][00000485CF620000 50] iPhoneX, [00000485CF6640C0][00000485CF625000 50] iPhoneXS, [00000485CF663480][00000485CF627800 50] iPhoneXSMax, [00000485CF664280][00000485CF62A000 50] iPhoneXR, [00000485CF662F40][00000485CF62C800 50] iPhone11, [00000485CF665780][00000485CF612800 50] iPhone11Pro, [00000485CF6678C0][00000485CF630000 50] iPhone11ProMax, [00000485CF6647C0][00000485CF635000 50] iPhoneSE2, [00000485CF667540][00000485CF637800 50] iPhone12Mini, [00000485CF663F00][00000485CF63A000 50] iPhone12, [00000485CF663100][00000485CF63C800 50] iPhone12Pro, [00000485CF664980][00000485CF622800 50] iPhone12ProMax, [00000485CF662140][00000485CF640000 50] iPadPro105, [00000485CF666200][00000485CF645000 50] iPadPro129, [00000485CF666AC0][00000485CF647800 50] iPadPro97, [00000485CF6663C0][00000485CF64A000 50] iPadPro2_129, [00000485CF660700][00000485CF64C800 50] iPad5, [00000485CF665400][00000485CF632800 50] iPad6, [00000485CF661180][00000485CF650000 50] iPad7, [00000485CF6655C0][00000485CF655000 50] iPad8, [00000485CF667A80][00000485CF657800 50] iPadPro11, [00000485CF665B00][00000485CF65A000 50] iPadPro2_11, [00000485CF660C40][00000485CF65C800 50] iPadPro3_129, [00000485CF660380][00000485CF642800 50] iPadPro4_129, [00000485CF662300][00000485CF680000 50] AppleTV, [00000485CF667380][00000485CF685000 50] AppleTV4K, [00000485CF665940][00000485CF687800 50] TVOS, [00000485CF66B0C0][00000485CF68C800 50] Mac, [00000485CF66B440][00000485CF68A000 50] MacEditor, [00000485CF66AB80][00000485CF652800 50] MacClient, [00000485CF66B600][00000485CF690000 50] MacServer, [00000485CF661DC0][00000485CF697800 50] Linux, [00000485CF66BB40][00000485CF695000 50] LinuxEditor, [00000485CF66B7C0][00000485CF69A000 50] LinuxArm64Editor, [00000485CF66A480][00000485CF69C800 50] LinuxArm64, [00000485CF66B980][00000485CF682800 50] LinuxClient, [00000485CF664D00][00000485CF6A0000 50] LinuxArm64Client, [00000485CF66AF00][00000485CF6A5000 50] LinuxServer, [00000485CF668DC0][00000485CF6A7800 50] LinuxArm64Server, [00000485CF660000][00000485CF6AA000 50] Android, [00000485CF669BC0][00000485CF6AC800 50] Android_Preview_OpenGL, [00000485CF668880][00000485CF692800 50] Android_Preview_Vulkan, [00000485CF669D80][00000485CF6B0000 50] Android_Low, [00000485CF668A40][00000485CF6B5000 50] Android_Mid, [00000485CF66A800][00000485CF6B7800 50] Android_High, [00000485CF663640][00000485CF6BA000 50] Android_Default, [00000485CF6694C0][00000485CF6BC800 50] Android_Adreno4xx, [00000485CF664B40][00000485CF6A2800 50] Android_Adreno5xx_Low, [00000485CF66B280][00000485CF6C0000 50] Android_Adreno5xx, [00000485CF667E00][00000485CF6C5000 50] Android_Adreno6xx, [00000485CF66A9C0][00000485CF6C7800 50] Android_Adreno6xx_Vulkan, [00000485CF662A00][00000485CF6CA000 50] Android_Mali_T6xx, [00000485CF66A100][00000485CF6CC800 50] Android_Mali_T7xx, [00000485CF668500][00000485CF6B2800 50] Android_Mali_T8xx, [00000485CF667FC0][00000485CF6D0000 50] Android_Mali_G71, [00000485CF662680][00000485CF6D5000 50] Android_Mali_G72, [00000485CF6616C0][00000485CF6D7800 50] Android_Mali_G72_Vulkan, [00000485CF660A80][00000485CF6DA000 50] Android_Mali_G76, [00000485CF66AD40][00000485CF6DC800 50] Android_Mali_G76_Vulkan, [00000485CF66A2C0][00000485CF6C2800 50] Android_Mali_G77, [00000485CF668180][00000485CF5F0000 50] Android_Mali_G77_Vulkan, [00000485CF663D40][00000485CF5F5000 50] Android_Mali_G78, [00000485CF661A40][00000485CF5F7800 50] Android_Mali_G78_Vulkan, [00000485CF660E00][00000485CF5FA000 50] Android_Mali_G710, [00000485CF665080][00000485CF5FC800 50] Android_Mali_G710_Vulkan, [00000485CF66C5C0][00000485CF6D2800 50] Android_Vulkan_SM5, [00000485CF666740][00000485CF670000 50] Android_PowerVR_G6xxx, [00000485CF668340][00000485CF675000 50] Android_PowerVR_GT7xxx, [00000485CF666040][00000485CF677800 50] Android_PowerVR_GE8xxx, [00000485CF668C00][00000485CF67A000 50] Android_PowerVR_GM9xxx, [00000485CF6686C0][00000485CF67C800 50] Android_PowerVR_GM9xxx_Vulkan, [00000485CF668F80][00000485CF5F2800 50] Android_TegraK1, [00000485CF664600][00000485CF6E0000 50] Android_Unknown_Vulkan, [00000485CF66D580][00000485CF6E5000 50] Oculus_Quest, [00000485CF6639C0][00000485CF6E7800 50] Oculus_Quest2, [00000485CF66C780][00000485CF6EA000 50] HoloLens, 
+[2022.03.08-15.15.19:825][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2022.03.08-15.15.19:829][  0]LogTurnkeySupport: Turnkey Platform: Android: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=r21a, MaxAllowed=r23a, Flags="Platform_InvalidHostPrerequisites", Error="Android Studio is not installed correctly.|Android SDK directory is not set correctly.")
+[2022.03.08-15.15.19:829][  0]LogTurnkeySupport: Turnkey Platform: IOS: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=1100.0.0.0, MaxAllowed=1399.0, Flags="Platform_ValidHostPrerequisites")
+[2022.03.08-15.15.19:829][  0]LogTurnkeySupport: Turnkey Platform: Linux: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v10_clang-5.0.0-centos7, MaxAllowed=v19_clang-11.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2022.03.08-15.15.19:829][  0]LogTurnkeySupport: Turnkey Platform: LinuxArm64: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v10_clang-5.0.0-centos7, MaxAllowed=v19_clang-11.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2022.03.08-15.15.19:829][  0]LogTurnkeySupport: Turnkey Platform: Win64: (Status=Valid, Installed=10.0.19041.0, AutoSDK=, MinAllowed=10.0.00000.0, MaxAllowed=10.9.99999.0, Flags="InstalledSdk_ValidVersionExists")
+[2022.03.08-15.15.19:848][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2022.03.08-15.15.20:058][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.03.08-15.15.20:058][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.03.08-15.15.20:058][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.03.08-15.15.20:058][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.03.08-15.15.20:058][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.03.08-15.15.20:062][  0]LogStaticMesh: StaticMesh /Engine/EditorMeshes/MatineeCam_SM.MatineeCam_SM should be resaved to improve async compilation performance.
+[2022.03.08-15.15.20:098][  0]LogStaticMesh: StaticMesh /Engine/EngineMeshes/Sphere.Sphere should be resaved to improve async compilation performance.
+[2022.03.08-15.15.20:100][  0]LogNetVersion: Oblivion_house_test 1.0.0, NetCL: 16433597, EngineNetVer: 23, GameNetVer: 0 (Checksum: 3343196415)
+[2022.03.08-15.15.20:249][  0]LogSlate: Border
+[2022.03.08-15.15.20:249][  0]LogSlate: BreadcrumbButton
+[2022.03.08-15.15.20:249][  0]LogSlate: Default
+[2022.03.08-15.15.20:249][  0]LogSlate: Icons.Save
+[2022.03.08-15.15.20:249][  0]LogSlate: Icons.Toolbar.Settings
+[2022.03.08-15.15.20:249][  0]LogSlate: ListView
+[2022.03.08-15.15.20:249][  0]LogSlate: SoftwareCursor_CardinalCross
+[2022.03.08-15.15.20:249][  0]LogSlate: SoftwareCursor_Grab
+[2022.03.08-15.15.20:249][  0]LogSlate: TableView.DarkRow
+[2022.03.08-15.15.20:249][  0]LogSlate: TableView.Row
+[2022.03.08-15.15.20:249][  0]LogSlate: TreeView
+[2022.03.08-15.15.20:414][  0]LogStaticMesh: StaticMesh /Engine/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.S_1_Unit_Plane should be resaved to improve async compilation performance.
+[2022.03.08-15.15.20:471][  0]LogStaticMesh: StaticMesh /Engine/EditorMeshes/EditorCube.EditorCube should be resaved to improve async compilation performance.
+[2022.03.08-15.15.20:472][  0]LogStaticMesh: StaticMesh /Engine/EditorMeshes/EditorSphere.EditorSphere should be resaved to improve async compilation performance.
+[2022.03.08-15.15.20:473][  0]LogStaticMesh: StaticMesh /Engine/EditorMeshes/EditorPlane.EditorPlane should be resaved to improve async compilation performance.
+[2022.03.08-15.15.20:473][  0]LogStaticMesh: StaticMesh /Engine/EditorMeshes/EditorCylinder.EditorCylinder should be resaved to improve async compilation performance.
+[2022.03.08-15.15.20:475][  0]SourceControl: El control de código fuente está desactivado
+[2022.03.08-15.15.20:506][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2022.03.08-15.15.20:508][  0]SourceControl: El control de código fuente está desactivado
+[2022.03.08-15.15.20:508][  0]SourceControl: El control de código fuente está desactivado
+[2022.03.08-15.15.20:545][  0]LogStaticMesh: StaticMesh /Engine/EditorLandscapeResources/SplineEditorMesh.SplineEditorMesh should be resaved to improve async compilation performance.
+[2022.03.08-15.15.20:635][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2022.03.08-15.15.20:650][  0]LogUObjectArray: 20670 objects as part of root set at end of initial load.
+[2022.03.08-15.15.20:650][  0]LogUObjectAllocator: 5619816 out of 0 bytes used by permanent object pool.
+[2022.03.08-15.15.20:650][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.03.08-15.15.20:875][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2022.03.08-15.15.21:030][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 43C54B424CF2BB9C2576AAB530E5EC8F | Instance: B42F18554B329A991AB25AB2344C0E22 (JONATHAN-PC-4852).
+[2022.03.08-15.15.21:079][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.03.08-15.15.21:085][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.03.08-15.15.21:098][  0]LogPython: Using Python 3.9.7
+[2022.03.08-15.15.22:188][  0]SourceControl: El control de código fuente está desactivado
+[2022.03.08-15.15.22:201][  0]SourceControl: El control de código fuente está desactivado
+[2022.03.08-15.15.22:208][  0]SourceControl: El control de código fuente está desactivado
+[2022.03.08-15.15.22:403][  0]LogUProjectInfo: Found projects:
+[2022.03.08-15.15.22:510][  0]LogOpenImageDenoise: OIDN starting up
+[2022.03.08-15.15.22:562][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.03.08-15.15.22:582][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.03.08-15.15.22:582][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.03.08-15.15.22:741][  0]LogCollectionManager: Loaded 0 collections in 0.002368 seconds
+[2022.03.08-15.15.22:844][  0]LogFileCache: Scanning file cache for directory 'E:/UNREAL/Projects/Oblivion_house_test/Saved/Collections/' took 0.00s
+[2022.03.08-15.15.22:844][  0]LogFileCache: Scanning file cache for directory 'E:/UNREAL/Projects/Oblivion_house_test/Content/Developers/Jonathan/Collections/' took 0.00s
+[2022.03.08-15.15.22:844][  0]LogFileCache: Scanning file cache for directory 'E:/UNREAL/Projects/Oblivion_house_test/Content/Collections/' took 0.00s
+[2022.03.08-15.15.22:844][  0]LogOcInput: OculusInput pre-init called
+[2022.03.08-15.15.23:280][  0]LogEngine: Initializing Engine...
+[2022.03.08-15.15.23:365][  0]LogHMD: Failed to initialize OpenVR with code 108
+[2022.03.08-15.15.23:397][  0]LogHMD: Optional extension XR_VARJO_quad_views is not available
+[2022.03.08-15.15.23:397][  0]LogHMD: Optional extension XR_EXT_dpad_binding is not available
+[2022.03.08-15.15.23:398][  0]LogHMD: Initialized OpenXR on Oculus runtime version 1.69.0
+[2022.03.08-15.15.23:899][  0]LogHMD: Failed to get an OpenXR system, result is XR_ERROR_FORM_FACTOR_UNAVAILABLE. Please check that your runtime supports VR headsets.
+[2022.03.08-15.15.23:900][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2022.03.08-15.15.23:901][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.03.08-15.15.24:205][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.03.08-15.15.24:205][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.03.08-15.15.24:216][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.03.08-15.15.24:247][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.03.08-15.15.24:248][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.03.08-15.15.24:277][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.03.08-15.15.24:278][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.03.08-15.15.24:278][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2022.03.08-15.15.24:278][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.03.08-15.15.24:278][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.03.08-15.15.24:278][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.08-15.15.24:278][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.08-15.15.24:278][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.08-15.15.24:278][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.08-15.15.24:278][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.08-15.15.24:278][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.08-15.15.24:278][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.08-15.15.24:278][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.08-15.15.24:279][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.08-15.15.24:279][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.08-15.15.24:279][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.08-15.15.24:279][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.08-15.15.24:360][  0]LogAudioMixer: Display: Using Audio Device Altavoces (2- USB Audio CODEC )
+[2022.03.08-15.15.24:361][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.08-15.15.24:362][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.08-15.15.24:362][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.08-15.15.24:363][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2022.03.08-15.15.24:363][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2022.03.08-15.15.24:364][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.03.08-15.15.24:364][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2022.03.08-15.15.24:364][  0]LogInit: FAudioDevice initialized.
+[2022.03.08-15.15.24:364][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.03.08-15.15.24:364][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.03.08-15.15.24:365][  0]LogInit: Texture streaming: Enabled
+[2022.03.08-15.15.24:401][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.0-19044958+++UE5+Release-5.0
+[2022.03.08-15.15.24:410][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.03.08-15.15.24:441][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2022.03.08-15.15.24:449][  0]LogLiveCoding: Display: Starting LiveCoding
+[2022.03.08-15.15.24:449][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2022.03.08-15.15.25:481][  0]LogLiveCoding: Display: First instance in process group "UE_Oblivion_house_test_0x6038d03a", spawning console
+[2022.03.08-15.15.25:482][  0]LogLiveCoding: Display: Waiting for server
+[2022.03.08-15.15.25:482][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2022.03.08-15.15.25:506][  0]LogInit: Transaction tracking system initialized
+[2022.03.08-15.15.25:589][  0]BlueprintLog: New page: Cargar el editor
+[2022.03.08-15.15.25:800][  0]LocalizationService: Localization service is disabled
+[2022.03.08-15.15.25:851][  0]TimingProfiler: Initialize
+[2022.03.08-15.15.25:851][  0]TimingProfiler: OnSessionChanged
+[2022.03.08-15.15.25:851][  0]LoadingProfiler: Initialize
+[2022.03.08-15.15.25:851][  0]LoadingProfiler: OnSessionChanged
+[2022.03.08-15.15.25:851][  0]NetworkingProfiler: Initialize
+[2022.03.08-15.15.25:851][  0]NetworkingProfiler: OnSessionChanged
+[2022.03.08-15.15.25:851][  0]MemoryProfiler: Initialize
+[2022.03.08-15.15.25:851][  0]MemoryProfiler: OnSessionChanged
+[2022.03.08-15.15.26:415][  0]LogFileCache: Scanning file cache for directory 'E:/UNREAL/Projects/Oblivion_house_test/Content/' took 0.01s
+[2022.03.08-15.15.26:415][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2022.03.08-15.15.26:729][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.03.08-15.15.26:731][  0]SourceControl: El control de código fuente está desactivado
+[2022.03.08-15.15.26:732][  0]LogUnrealEdMisc: Loading editor; pre map load, took 12.776
+[2022.03.08-15.15.26:732][  0]Cmd: MAP LOAD FILE="../../../../../Projects/Oblivion_house_test/Content/ThirdPerson/Maps/ThirdPersonMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.03.08-15.15.26:732][  0]LightingResults: New page: Diseñar la iluminación
+[2022.03.08-15.15.26:739][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.03.08-15.15.26:740][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.08-15.15.26:740][  0]MapCheck: New page: Revisión del mapa
+[2022.03.08-15.15.26:740][  0]LightingResults: New page: Diseñar la iluminación
+[2022.03.08-15.15.26:746][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.08-15.15.26:749][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2022.03.08-15.15.26:797][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonMap'.
+[2022.03.08-15.15.26:797][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.03.08-15.15.26:797][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.03.08-15.15.26:798][  0]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2022.03.08-15.15.26:801][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.03.08-15.15.26:809][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2022.03.08-15.15.26:809][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.03.08-15.15.26:809][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,137ms to complete.
+[2022.03.08-15.15.26:809][  0]LogFileHelpers: Loading map 'ThirdPersonMap' took 0.078
+[2022.03.08-15.15.26:821][  0]LogUnrealEdMisc: Total Editor Startup Time, took 12.865
+[2022.03.08-15.15.26:821][  0]LogShaderCompilers: Display: ================================================
+[2022.03.08-15.15.26:821][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.03.08-15.15.26:821][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2022.03.08-15.15.26:821][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.03.08-15.15.26:821][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.00%
+[2022.03.08-15.15.26:821][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.03.08-15.15.26:822][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2022.03.08-15.15.26:822][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2022.03.08-15.15.26:822][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2022.03.08-15.15.26:822][  0]LogShaderCompilers: Display: ================================================
+[2022.03.08-15.15.26:977][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.08-15.15.26:984][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.08-15.15.26:991][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.08-15.15.26:998][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.08-15.15.27:050][  0]LogPakFile: Display: Mounted Pak file 'E:/UNREAL/Epic Games/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2022.03.08-15.15.27:050][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.03.08-15.15.27:050][  0]LogPakFile: Display: Mounted Pak file 'E:/UNREAL/Epic Games/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2022.03.08-15.15.27:050][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.03.08-15.15.27:051][  0]LogPakFile: Display: Mounted Pak file 'E:/UNREAL/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2022.03.08-15.15.27:051][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.03.08-15.15.27:052][  0]LogPakFile: Display: Mounted Pak file 'E:/UNREAL/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2022.03.08-15.15.27:052][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.03.08-15.15.27:052][  0]LogPakFile: Display: Mounted Pak file 'E:/UNREAL/Epic Games/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2022.03.08-15.15.27:052][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.03.08-15.15.27:053][  0]LogPakFile: Display: Mounted Pak file 'E:/UNREAL/Epic Games/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2022.03.08-15.15.27:053][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.03.08-15.15.27:053][  0]LogPakFile: Display: Mounted Pak file 'E:/UNREAL/Epic Games/UE_5.0/FeaturePacks/TP_VehicleAdv.upack', mount point: 'root:/'
+[2022.03.08-15.15.27:053][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.03.08-15.15.27:054][  0]LogPakFile: Display: Mounted Pak file 'E:/UNREAL/Epic Games/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2022.03.08-15.15.27:054][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.03.08-15.15.27:054][  0]LogPakFile: Display: Mounted Pak file 'E:/UNREAL/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2022.03.08-15.15.27:055][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.03.08-15.15.27:121][  0]LogSlate: Took 0.000202 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.03.08-15.15.27:125][  0]LogSlate: Took 0.000207 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.03.08-15.15.27:127][  0]LogSlate: Took 0.000107 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.03.08-15.15.27:517][  0]LogStall: Startup...
+[2022.03.08-15.15.27:519][  0]LogStall: Startup complete.
+[2022.03.08-15.15.27:538][  0]LogLoad: (Engine Initialization) Total time: 13.58 seconds
+[2022.03.08-15.15.27:539][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.03.08-15.15.27:614][  0]LogAssetRegistry: Asset discovery search completed in 8.3404 seconds
+[2022.03.08-15.15.27:625][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2022.03.08-15.15.27:710][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.03.08-15.15.27:760][  0]LogSlate: Took 0.000108 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.03.08-15.15.57:706][ 98]LogEditorViewport: Clicking Background
+[2022.03.08-15.16.16:594][297]LogCEFBrowser: CEF GPU acceleration enabled
+[2022.03.08-15.17.15:939][389]LogSlate: Window 'Bridge' being destroyed
+[2022.03.08-15.17.15:944][389]LogSlate: Window 'Bridge' being destroyed
+[2022.03.08-15.17.17:729][543]LogDerivedDataCache: C:/Users/Jonathan/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.136 and deleted 0 file(s) with total size 0 MiB.
+[2022.03.08-15.17.35:694][912]LogEditorViewport: Clicking Background
+[2022.03.08-15.18.05:773][133]LogSlate: Window 'Choose Location for importing the scene content' being destroyed
+[2022.03.08-15.18.06:165][133]LogFactory: FactoryCreateFile: World with FbxSceneImportFactory (0 0 ../../../../../../OBLIVION_HOUSE/Oblivion_Sky_tower_v20.fbx)
+[2022.03.08-15.18.06:485][133]LogFbx: Loading FBX Scene from ../../../../../../OBLIVION_HOUSE/Oblivion_Sky_tower_v20.fbx
+[2022.03.08-15.18.06:785][133]LogFbx: FBX Scene Loaded Succesfully
+[2022.03.08-15.18.43:274][133]LogSlate: Window 'FBX Scene Import Options' being destroyed
+[2022.03.08-15.18.44:543][133]LogMaterial: Display: Missing cached shadermap for Material in PCD3D_SM5, Default, SM5 (DDC key hash: B73D27C6A3C47BB068798212D625B1E4141E6AC6), compiling. 
+[2022.03.08-15.18.44:765][133]LogFbx: Display: Triangulating static mesh polymsh
+[2022.03.08-15.18.44:824][133]LogStaticMesh: Display: Generando la malla estática polymsh...
+[2022.03.08-15.18.44:970][133]LogStaticMesh: Built static mesh [0.16s] /Game/LevelPrototyping/Meshes/polymsh.polymsh
+[2022.03.08-15.18.45:077][133]LogStaticMesh: Warning: polymsh has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2022.03.08-15.18.45:078][133]LogStaticMesh: Warning: polymsh has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.03.08-15.18.45:165][133]LogMaterial: Display: Missing cached shadermap for Scene_Material in PCD3D_SM5, Default, SM5 (DDC key hash: 53A991144D67E4E2334F9D446128F79D99BE33BE), compiling. 
+[2022.03.08-15.18.45:172][133]LogMaterial: Display: Missing cached shadermap for metal_ribbon in PCD3D_SM5, Default, SM5 (DDC key hash: 6E12B3A2B497BACEB4AD9674D3DA12DDF5BA0BE3), compiling. 
+[2022.03.08-15.18.45:180][133]LogMaterial: Display: Missing cached shadermap for light_soft in PCD3D_SM5, Default, SM5 (DDC key hash: 6C52976D1D078B3DCD365DBD1A833B7275819F3C), compiling. 
+[2022.03.08-15.18.45:187][133]LogMaterial: Display: Missing cached shadermap for Meral_exterior in PCD3D_SM5, Default, SM5 (DDC key hash: C7F1C7201C07627AB816F451CF81B9FCE295F6F7), compiling. 
+[2022.03.08-15.18.45:196][133]LogFbx: Display: Triangulating static mesh cube2
+[2022.03.08-15.18.45:373][133]LogStaticMesh: Display: Generando la malla estática _ncl1_1...
+[2022.03.08-15.18.45:430][133]LogStaticMesh: Built static mesh [0.06s] /Game/LevelPrototyping/Meshes/_ncl1_1._ncl1_1
+[2022.03.08-15.18.45:447][133]LogStaticMesh: Warning: _ncl1_1 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2022.03.08-15.18.45:447][133]LogStaticMesh: Warning: _ncl1_1 has some nearly zero normals which can create some issues. (Tolerance of 1E-4)
+[2022.03.08-15.18.45:447][133]LogStaticMesh: Warning: _ncl1_1 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.03.08-15.18.45:473][133]LogFbx: Display: Triangulating static mesh polymsh_detached
+[2022.03.08-15.18.45:549][133]LogStaticMesh: Display: Generando la malla estática _ncl1_2...
+[2022.03.08-15.18.45:578][133]LogStaticMesh: Built static mesh [0.03s] /Game/LevelPrototyping/Meshes/_ncl1_2._ncl1_2
+[2022.03.08-15.18.45:587][133]LogStaticMesh: Warning: _ncl1_2 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2022.03.08-15.18.45:587][133]LogStaticMesh: Warning: _ncl1_2 has some nearly zero normals which can create some issues. (Tolerance of 1E-4)
+[2022.03.08-15.18.45:587][133]LogStaticMesh: Warning: _ncl1_2 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.03.08-15.18.45:646][133]LogFbx: Display: Triangulating static mesh polymsh1
+[2022.03.08-15.18.46:297][133]LogStaticMesh: Display: Generando la malla estática _ncl1_3...
+[2022.03.08-15.18.46:536][133]LogStaticMesh: Built static mesh [0.24s] /Game/LevelPrototyping/Meshes/_ncl1_3._ncl1_3
+[2022.03.08-15.18.46:599][133]LogStaticMesh: Warning: _ncl1_3 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2022.03.08-15.18.46:599][133]LogStaticMesh: Warning: _ncl1_3 has some nearly zero normals which can create some issues. (Tolerance of 1E-4)
+[2022.03.08-15.18.46:599][133]LogStaticMesh: Warning: _ncl1_3 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.03.08-15.18.46:673][133]LogFbx: Display: Triangulating static mesh cylinder
+[2022.03.08-15.18.46:790][133]LogStaticMesh: Display: Generando la malla estática _ncl1_4...
+[2022.03.08-15.18.46:822][133]LogStaticMesh: Built static mesh [0.03s] /Game/LevelPrototyping/Meshes/_ncl1_4._ncl1_4
+[2022.03.08-15.18.46:852][133]LogMaterial: Display: Missing cached shadermap for lights in PCD3D_SM5, Default, SM5 (DDC key hash: E68ADF024E1AD79F93EB93469A969CE233C5C91B), compiling. 
+[2022.03.08-15.18.46:855][133]LogFbx: Display: Triangulating static mesh polymsh5
+[2022.03.08-15.18.46:873][133]LogStaticMesh: Display: Generando la malla estática _ncl1_5...
+[2022.03.08-15.18.46:879][133]LogStaticMesh: Built static mesh [0.01s] /Game/LevelPrototyping/Meshes/_ncl1_5._ncl1_5
+[2022.03.08-15.18.46:883][133]LogStaticMesh: Warning: _ncl1_5 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2022.03.08-15.18.46:883][133]LogStaticMesh: Warning: _ncl1_5 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.03.08-15.18.46:896][133]LogMaterial: Display: Missing cached shadermap for Plastic_gray in PCD3D_SM5, Default, SM5 (DDC key hash: 7754FD9039A4391562699DF2B7E8EFD947BABA57), compiling. 
+[2022.03.08-15.18.46:899][133]LogFbx: Display: Triangulating static mesh cylinder1
+[2022.03.08-15.18.46:947][133]LogStaticMesh: Display: Generando la malla estática _ncl1_6...
+[2022.03.08-15.18.46:963][133]LogStaticMesh: Built static mesh [0.02s] /Game/LevelPrototyping/Meshes/_ncl1_6._ncl1_6
+[2022.03.08-15.18.46:980][133]LogFbx: Display: Triangulating static mesh polymsh_detached2
+[2022.03.08-15.18.46:998][133]LogStaticMesh: Display: Generando la malla estática _ncl1_7...
+[2022.03.08-15.18.47:005][133]LogStaticMesh: Built static mesh [0.01s] /Game/LevelPrototyping/Meshes/_ncl1_7._ncl1_7
+[2022.03.08-15.18.47:009][133]LogStaticMesh: Warning: _ncl1_7 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2022.03.08-15.18.47:009][133]LogStaticMesh: Warning: _ncl1_7 has some nearly zero normals which can create some issues. (Tolerance of 1E-4)
+[2022.03.08-15.18.47:010][133]LogStaticMesh: Warning: _ncl1_7 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.03.08-15.18.47:025][133]LogMaterial: Display: Missing cached shadermap for plastic_white in PCD3D_SM5, Default, SM5 (DDC key hash: AE2E85C82769D2973D093E8782D562E45B4421B3), compiling. 
+[2022.03.08-15.18.47:033][133]LogMaterial: Display: Missing cached shadermap for plastic_dark_gray in PCD3D_SM5, Default, SM5 (DDC key hash: 9F0E3C6A989273649713A1A8A6E35D4334A6FA61), compiling. 
+[2022.03.08-15.18.47:040][133]LogMaterial: Display: Missing cached shadermap for chair_chrome in PCD3D_SM5, Default, SM5 (DDC key hash: E3636B063895B6AA0393371CF10F6433630D2050), compiling. 
+[2022.03.08-15.18.47:061][133]LogFbx: Display: Triangulating static mesh cube3
+[2022.03.08-15.18.47:594][133]LogStaticMesh: Display: Generando la malla estática _ncl1_8...
+[2022.03.08-15.18.47:757][133]LogStaticMesh: Built static mesh [0.16s] /Game/LevelPrototyping/Meshes/_ncl1_8._ncl1_8
+[2022.03.08-15.18.47:802][133]LogStaticMesh: Warning: _ncl1_8 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2022.03.08-15.18.47:802][133]LogStaticMesh: Warning: _ncl1_8 has some nearly zero normals which can create some issues. (Tolerance of 1E-4)
+[2022.03.08-15.18.47:802][133]LogStaticMesh: Warning: _ncl1_8 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.03.08-15.18.47:857][133]LogFbx: Display: Triangulating static mesh polymsh_detached3
+[2022.03.08-15.18.47:998][133]LogStaticMesh: Display: Generando la malla estática _ncl1_9...
+[2022.03.08-15.18.48:038][133]LogStaticMesh: Built static mesh [0.04s] /Game/LevelPrototyping/Meshes/_ncl1_9._ncl1_9
+[2022.03.08-15.18.48:051][133]LogStaticMesh: Warning: _ncl1_9 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2022.03.08-15.18.48:051][133]LogStaticMesh: Warning: _ncl1_9 has some nearly zero normals which can create some issues. (Tolerance of 1E-4)
+[2022.03.08-15.18.48:051][133]LogStaticMesh: Warning: _ncl1_9 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.03.08-15.18.48:077][133]LogMaterial: Display: Missing cached shadermap for chair_metal in PCD3D_SM5, Default, SM5 (DDC key hash: 0A6E2E572F234C0F64666620E6652152A6228386), compiling. 
+[2022.03.08-15.18.48:084][133]LogMaterial: Display: Missing cached shadermap for couchs_cloths in PCD3D_SM5, Default, SM5 (DDC key hash: A54BC82F815EECEA6ADCBA9F336409FB685382DA), compiling. 
+[2022.03.08-15.18.48:088][133]LogFbx: Display: Triangulating static mesh cube4
+[2022.03.08-15.18.48:184][133]LogStaticMesh: Display: Generando la malla estática _ncl1_10...
+[2022.03.08-15.18.48:208][133]LogStaticMesh: Built static mesh [0.02s] /Game/LevelPrototyping/Meshes/_ncl1_10._ncl1_10
+[2022.03.08-15.18.48:217][133]LogStaticMesh: Warning: _ncl1_10 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2022.03.08-15.18.48:217][133]LogStaticMesh: Warning: _ncl1_10 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.03.08-15.18.48:231][133]LogFbx: Display: Triangulating static mesh polymsh_detached4
+[2022.03.08-15.18.48:245][133]LogStaticMesh: Display: Generando la malla estática _ncl1_11...
+[2022.03.08-15.18.48:250][133]LogStaticMesh: Built static mesh [0.00s] /Game/LevelPrototyping/Meshes/_ncl1_11._ncl1_11
+[2022.03.08-15.18.48:262][133]LogFbx: Display: Triangulating static mesh polymsh7
+[2022.03.08-15.18.48:263][133]LogStaticMesh: Display: Generando la malla estática _ncl1_12...
+[2022.03.08-15.18.48:266][133]LogStaticMesh: Built static mesh [0.00s] /Game/LevelPrototyping/Meshes/_ncl1_12._ncl1_12
+[2022.03.08-15.18.48:279][133]LogMaterial: Display: Missing cached shadermap for chair_cloth in PCD3D_SM5, Default, SM5 (DDC key hash: 6957C4707DC2315B4C35FF55B880E9FDA473657B), compiling. 
+[2022.03.08-15.18.48:283][133]LogFbx: Display: Triangulating static mesh polymsh8
+[2022.03.08-15.18.48:339][133]LogStaticMesh: Display: Generando la malla estática _ncl1_13...
+[2022.03.08-15.18.48:355][133]LogStaticMesh: Built static mesh [0.02s] /Game/LevelPrototyping/Meshes/_ncl1_13._ncl1_13
+[2022.03.08-15.18.48:361][133]LogStaticMesh: Warning: _ncl1_13 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2022.03.08-15.18.48:361][133]LogStaticMesh: Warning: _ncl1_13 has some nearly zero normals which can create some issues. (Tolerance of 1E-4)
+[2022.03.08-15.18.48:361][133]LogStaticMesh: Warning: _ncl1_13 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.03.08-15.18.48:388][133]LogFbx: Display: Triangulating static mesh cube5
+[2022.03.08-15.18.48:405][133]LogStaticMesh: Display: Generando la malla estática _ncl1_14...
+[2022.03.08-15.18.48:412][133]LogStaticMesh: Built static mesh [0.01s] /Game/LevelPrototyping/Meshes/_ncl1_14._ncl1_14
+[2022.03.08-15.18.48:415][133]LogStaticMesh: Warning: _ncl1_14 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2022.03.08-15.18.48:415][133]LogStaticMesh: Warning: _ncl1_14 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.03.08-15.18.48:428][133]LogMaterial: Display: Missing cached shadermap for lights_dots in PCD3D_SM5, Default, SM5 (DDC key hash: E719DB0D5B8BDACF6163AA1CDB3A0993CD4E95FB), compiling. 
+[2022.03.08-15.18.48:435][133]LogMaterial: Display: Missing cached shadermap for light_blue in PCD3D_SM5, Default, SM5 (DDC key hash: 6783A9F18609334407ECD9D66DBE98C563F5A1E2), compiling. 
+[2022.03.08-15.18.48:452][133]LogStaticMesh: Display: Generando la malla estática _ncl1_15...
+[2022.03.08-15.18.48:465][133]LogStaticMesh: Built static mesh [0.01s] /Game/LevelPrototyping/Meshes/_ncl1_15._ncl1_15
+[2022.03.08-15.18.48:472][133]LogStaticMesh: Warning: _ncl1_15 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2022.03.08-15.18.48:472][133]LogStaticMesh: Warning: _ncl1_15 has some nearly zero normals which can create some issues. (Tolerance of 1E-4)
+[2022.03.08-15.18.48:472][133]LogStaticMesh: Warning: _ncl1_15 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.03.08-15.18.48:489][133]LogMaterial: Display: Missing cached shadermap for bath_tiles in PCD3D_SM5, Default, SM5 (DDC key hash: 565474A0EF63091A2F7EB3DEFEE96ECC68EDF21F), compiling. 
+[2022.03.08-15.18.48:497][133]LogMaterial: Display: Missing cached shadermap for ceramic in PCD3D_SM5, Default, SM5 (DDC key hash: 83382953ECE636D00F7DD38C33225F3A0217F88C), compiling. 
+[2022.03.08-15.18.48:504][133]LogMaterial: Display: Missing cached shadermap for lights_rooms in PCD3D_SM5, Default, SM5 (DDC key hash: 964746547337896F965129C3F42D87277FBCE910), compiling. 
+[2022.03.08-15.18.48:538][133]LogFbx: Display: Triangulating static mesh polymsh12
+[2022.03.08-15.18.49:300][133]LogStaticMesh: Display: Generando la malla estática _ncl1_16...
+[2022.03.08-15.18.49:538][133]LogStaticMesh: Built static mesh [0.24s] /Game/LevelPrototyping/Meshes/_ncl1_16._ncl1_16
+[2022.03.08-15.18.49:601][133]LogStaticMesh: Warning: _ncl1_16 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2022.03.08-15.18.49:602][133]LogStaticMesh: Warning: _ncl1_16 has some nearly zero normals which can create some issues. (Tolerance of 1E-4)
+[2022.03.08-15.18.49:602][133]LogStaticMesh: Warning: _ncl1_16 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.03.08-15.18.49:698][133]LogMaterial: Display: Missing cached shadermap for floor_white_tiled in PCD3D_SM5, Default, SM5 (DDC key hash: 1583CEE4A0B2775C80B625FF5E875A06964B7058), compiling. 
+[2022.03.08-15.18.49:707][133]LogMaterial: Display: Missing cached shadermap for floor_gray in PCD3D_SM5, Default, SM5 (DDC key hash: CD1C90ECFF68A53D1371AA81B488ECC08845E7EC), compiling. 
+[2022.03.08-15.18.49:714][133]LogMaterial: Display: Missing cached shadermap for floor_gray_light in PCD3D_SM5, Default, SM5 (DDC key hash: 0285882641BAC237C1ECCF482D4BA982A100BE19), compiling. 
+[2022.03.08-15.18.49:722][133]LogMaterial: Display: Missing cached shadermap for flor_white_carpet in PCD3D_SM5, Default, SM5 (DDC key hash: D700320DF5A5455C2F6C72719958AC84901E7FCE), compiling. 
+[2022.03.08-15.18.49:729][133]LogMaterial: Display: Missing cached shadermap for ribbon_glass in PCD3D_SM5, Default, SM5 (DDC key hash: 63AC2965804036DAAEA78393A1A7833DD7FB4BDD), compiling. 
+[2022.03.08-15.18.49:737][133]LogMaterial: Display: Missing cached shadermap for ribbon_ext in PCD3D_SM5, Default, SM5 (DDC key hash: 4036A8F83C6FA2A4359E3BC776FF5D561211B470), compiling. 
+[2022.03.08-15.18.49:744][133]LogMaterial: Display: Missing cached shadermap for light_pool in PCD3D_SM5, Default, SM5 (DDC key hash: 5F518485FD3997D1D1BC662ECCB61E0B88DA8CC3), compiling. 
+[2022.03.08-15.18.49:752][133]LogMaterial: Display: Missing cached shadermap for dinner_floor in PCD3D_SM5, Default, SM5 (DDC key hash: 8F55EBFE3C59C5D5E492CFE071F125F5AA09766C), compiling. 
+[2022.03.08-15.18.49:759][133]LogMaterial: Display: Missing cached shadermap for light_ribbon in PCD3D_SM5, Default, SM5 (DDC key hash: 9B812A9EF5794B16AC6E83968C0DA9D270C14804), compiling. 
+[2022.03.08-15.18.49:767][133]LogMaterial: Display: Missing cached shadermap for hall_carpet in PCD3D_SM5, Default, SM5 (DDC key hash: CAA274FA81361AF0B036D31FB7F1839D232F1940), compiling. 
+[2022.03.08-15.18.49:815][133]LogTexture: Display: Building textures: /Game/LevelPrototyping/Meshes/tiles_floor_diffuse.tiles_floor_diffuse (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.03.08-15.18.49:815][133]LogFbx: Display: Triangulating static mesh polymsh13
+[2022.03.08-15.18.51:049][133]LogStaticMesh: Display: Generando la malla estática _ncl1_17...
+[2022.03.08-15.18.51:371][133]LogStaticMesh: Built static mesh [0.32s] /Game/LevelPrototyping/Meshes/_ncl1_17._ncl1_17
+[2022.03.08-15.18.51:459][133]LogStaticMesh: Warning: _ncl1_17 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2022.03.08-15.18.51:460][133]LogStaticMesh: Warning: _ncl1_17 has some nearly zero normals which can create some issues. (Tolerance of 1E-4)
+[2022.03.08-15.18.51:460][133]LogStaticMesh: Warning: _ncl1_17 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.03.08-15.18.51:560][133]LogFbx: Display: Triangulating static mesh polymsh_detached7
+[2022.03.08-15.18.51:638][133]LogStaticMesh: Display: Generando la malla estática _ncl1_18...
+[2022.03.08-15.18.51:664][133]LogStaticMesh: Built static mesh [0.03s] /Game/LevelPrototyping/Meshes/_ncl1_18._ncl1_18
+[2022.03.08-15.18.51:674][133]LogStaticMesh: Warning: _ncl1_18 has some nearly zero normals which can create some issues. (Tolerance of 1E-4)
+[2022.03.08-15.18.51:674][133]LogStaticMesh: Warning: _ncl1_18 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.03.08-15.18.51:702][133]LogFbx: Display: Triangulating static mesh polymsh20
+[2022.03.08-15.18.51:982][133]LogStaticMesh: Display: Generando la malla estática _ncl1_19...
+[2022.03.08-15.18.52:083][133]LogStaticMesh: Built static mesh [0.10s] /Game/LevelPrototyping/Meshes/_ncl1_19._ncl1_19
+[2022.03.08-15.18.52:110][133]LogStaticMesh: Warning: _ncl1_19 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2022.03.08-15.18.52:110][133]LogStaticMesh: Warning: _ncl1_19 has some nearly zero normals which can create some issues. (Tolerance of 1E-4)
+[2022.03.08-15.18.52:110][133]LogStaticMesh: Warning: _ncl1_19 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.03.08-15.18.52:144][133]LogFbx: Display: Triangulating static mesh cube6
+[2022.03.08-15.18.52:187][133]LogStaticMesh: Display: Generando la malla estática _ncl1_20...
+[2022.03.08-15.18.52:199][133]LogStaticMesh: Built static mesh [0.01s] /Game/LevelPrototyping/Meshes/_ncl1_20._ncl1_20
+[2022.03.08-15.18.52:203][133]LogStaticMesh: Warning: _ncl1_20 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2022.03.08-15.18.52:203][133]LogStaticMesh: Warning: _ncl1_20 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.03.08-15.18.52:213][133]LogFbx: Display: Triangulating static mesh cube7
+[2022.03.08-15.18.52:229][133]LogStaticMesh: Display: Generando la malla estática _ncl1_21...
+[2022.03.08-15.18.52:235][133]LogStaticMesh: Built static mesh [0.01s] /Game/LevelPrototyping/Meshes/_ncl1_21._ncl1_21
+[2022.03.08-15.18.52:238][133]LogStaticMesh: Warning: _ncl1_21 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2022.03.08-15.18.52:238][133]LogStaticMesh: Warning: _ncl1_21 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.03.08-15.18.52:247][133]LogFbx: Display: Triangulating static mesh cube8
+[2022.03.08-15.18.52:263][133]LogStaticMesh: Display: Generando la malla estática _ncl1_22...
+[2022.03.08-15.18.52:269][133]LogStaticMesh: Built static mesh [0.01s] /Game/LevelPrototyping/Meshes/_ncl1_22._ncl1_22
+[2022.03.08-15.18.52:271][133]LogStaticMesh: Warning: _ncl1_22 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2022.03.08-15.18.52:271][133]LogStaticMesh: Warning: _ncl1_22 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.03.08-15.18.52:289][133]LogFbx: Display: Triangulating static mesh cube9
+[2022.03.08-15.18.52:550][133]LogStaticMesh: Display: Generando la malla estática _ncl1_23...
+[2022.03.08-15.18.52:619][133]LogStaticMesh: Built static mesh [0.07s] /Game/LevelPrototyping/Meshes/_ncl1_23._ncl1_23
+[2022.03.08-15.18.52:639][133]LogStaticMesh: Warning: _ncl1_23 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2022.03.08-15.18.52:639][133]LogStaticMesh: Warning: _ncl1_23 has some nearly zero normals which can create some issues. (Tolerance of 1E-4)
+[2022.03.08-15.18.52:639][133]LogStaticMesh: Warning: _ncl1_23 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.03.08-15.18.52:665][133]LogFbx: Display: Triangulating static mesh polymsh_detached10
+[2022.03.08-15.18.52:705][133]LogStaticMesh: Display: Generando la malla estática _ncl1_24...
+[2022.03.08-15.18.52:716][133]LogStaticMesh: Built static mesh [0.01s] /Game/LevelPrototyping/Meshes/_ncl1_24._ncl1_24
+[2022.03.08-15.18.52:721][133]LogStaticMesh: Warning: _ncl1_24 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2022.03.08-15.18.52:721][133]LogStaticMesh: Warning: _ncl1_24 has some nearly zero normals which can create some issues. (Tolerance of 1E-4)
+[2022.03.08-15.18.52:721][133]LogStaticMesh: Warning: _ncl1_24 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.03.08-15.18.52:731][133]LogFbx: Display: Triangulating static mesh polymsh_detached11
+[2022.03.08-15.18.52:738][133]LogStaticMesh: Display: Generando la malla estática _ncl1_25...
+[2022.03.08-15.18.52:742][133]LogStaticMesh: Built static mesh [0.00s] /Game/LevelPrototyping/Meshes/_ncl1_25._ncl1_25
+[2022.03.08-15.18.52:745][133]LogStaticMesh: Warning: _ncl1_25 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2022.03.08-15.18.52:745][133]LogStaticMesh: Warning: _ncl1_25 has some nearly zero normals which can create some issues. (Tolerance of 1E-4)
+[2022.03.08-15.18.52:745][133]LogStaticMesh: Warning: _ncl1_25 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.03.08-15.18.52:754][133]LogFbx: Display: Triangulating static mesh polymsh_detached12
+[2022.03.08-15.18.52:798][133]LogStaticMesh: Display: Generando la malla estática _ncl1_26...
+[2022.03.08-15.18.52:811][133]LogStaticMesh: Built static mesh [0.01s] /Game/LevelPrototyping/Meshes/_ncl1_26._ncl1_26
+[2022.03.08-15.18.52:816][133]LogStaticMesh: Warning: _ncl1_26 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2022.03.08-15.18.52:816][133]LogStaticMesh: Warning: _ncl1_26 has some nearly zero normals which can create some issues. (Tolerance of 1E-4)
+[2022.03.08-15.18.52:816][133]LogStaticMesh: Warning: _ncl1_26 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.03.08-15.18.52:832][133]LogFbx: Display: Triangulating static mesh polymsh23
+[2022.03.08-15.18.53:085][133]LogStaticMesh: Display: Generando la malla estática _ncl1_27...
+[2022.03.08-15.18.53:155][133]LogStaticMesh: Built static mesh [0.07s] /Game/LevelPrototyping/Meshes/_ncl1_27._ncl1_27
+[2022.03.08-15.18.53:174][133]LogStaticMesh: Warning: _ncl1_27 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2022.03.08-15.18.53:174][133]LogStaticMesh: Warning: _ncl1_27 has some nearly zero normals which can create some issues. (Tolerance of 1E-4)
+[2022.03.08-15.18.53:174][133]LogStaticMesh: Warning: _ncl1_27 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.03.08-15.18.53:199][133]LogFbx: Display: Triangulating static mesh polymsh_detached13
+[2022.03.08-15.18.53:213][133]LogStaticMesh: Display: Generando la malla estática _ncl1_28...
+[2022.03.08-15.18.53:218][133]LogStaticMesh: Built static mesh [0.01s] /Game/LevelPrototyping/Meshes/_ncl1_28._ncl1_28
+[2022.03.08-15.18.53:221][133]LogStaticMesh: Warning: _ncl1_28 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2022.03.08-15.18.53:221][133]LogStaticMesh: Warning: _ncl1_28 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.03.08-15.18.53:233][133]LogFbx: Display: Triangulating static mesh hall_rings
+[2022.03.08-15.18.53:354][133]LogStaticMesh: Display: Generando la malla estática _ncl1_29...
+[2022.03.08-15.18.53:385][133]LogStaticMesh: Built static mesh [0.03s] /Game/LevelPrototyping/Meshes/_ncl1_29._ncl1_29
+[2022.03.08-15.18.53:420][133]LogFbx: Display: Triangulating static mesh jars
+[2022.03.08-15.18.53:761][133]LogStaticMesh: Display: Generando la malla estática _ncl1_30...
+[2022.03.08-15.18.53:848][133]LogStaticMesh: Built static mesh [0.09s] /Game/LevelPrototyping/Meshes/_ncl1_30._ncl1_30
+[2022.03.08-15.18.53:871][133]LogStaticMesh: Warning: _ncl1_30 has some nearly zero normals which can create some issues. (Tolerance of 1E-4)
+[2022.03.08-15.18.53:871][133]LogStaticMesh: Warning: _ncl1_30 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.03.08-15.18.53:906][133]LogMaterial: Display: Missing cached shadermap for water in PCD3D_SM5, Default, SM5 (DDC key hash: 6D2959ACA651A484A4BE687543CB757968049F28), compiling. 
+[2022.03.08-15.18.53:911][133]LogFbx: Display: Triangulating static mesh polymsh_detached14
+[2022.03.08-15.18.53:991][133]LogStaticMesh: Display: Generando la malla estática _ncl1_31...
+[2022.03.08-15.18.54:012][133]LogStaticMesh: Built static mesh [0.02s] /Game/LevelPrototyping/Meshes/_ncl1_31._ncl1_31
+[2022.03.08-15.18.54:037][133]LogMaterial: Display: Missing cached shadermap for blue_liquid in PCD3D_SM5, Default, SM5 (DDC key hash: B1E9E0F1341F6CA38A5D95F269960E5E7EB6CE93), compiling. 
+[2022.03.08-15.18.54:043][133]LogFbx: Display: Triangulating static mesh dineer_cups
+[2022.03.08-15.18.54:166][133]LogStaticMesh: Display: Generando la malla estática _ncl1_32...
+[2022.03.08-15.18.54:199][133]LogStaticMesh: Built static mesh [0.03s] /Game/LevelPrototyping/Meshes/_ncl1_32._ncl1_32
+[2022.03.08-15.18.54:210][133]LogStaticMesh: Warning: _ncl1_32 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2022.03.08-15.18.54:210][133]LogStaticMesh: Warning: _ncl1_32 has some nearly zero normals which can create some issues. (Tolerance of 1E-4)
+[2022.03.08-15.18.54:210][133]LogStaticMesh: Warning: _ncl1_32 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.03.08-15.18.54:245][133]LogFbx: Display: Triangulating static mesh cube10
+[2022.03.08-15.18.54:900][133]LogStaticMesh: Display: Generando la malla estática _ncl1_33...
+[2022.03.08-15.18.55:084][133]LogStaticMesh: Built static mesh [0.18s] /Game/LevelPrototyping/Meshes/_ncl1_33._ncl1_33
+[2022.03.08-15.18.55:132][133]LogStaticMesh: Warning: _ncl1_33 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2022.03.08-15.18.55:132][133]LogStaticMesh: Warning: _ncl1_33 has some nearly zero normals which can create some issues. (Tolerance of 1E-4)
+[2022.03.08-15.18.55:132][133]LogStaticMesh: Warning: _ncl1_33 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.03.08-15.18.55:189][133]LogFbx: Display: Triangulating static mesh polymsh24
+[2022.03.08-15.18.55:294][133]LogStaticMesh: Display: Generando la malla estática _ncl1_34...
+[2022.03.08-15.18.55:321][133]LogStaticMesh: Built static mesh [0.03s] /Game/LevelPrototyping/Meshes/_ncl1_34._ncl1_34
+[2022.03.08-15.18.55:331][133]LogStaticMesh: Warning: _ncl1_34 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2022.03.08-15.18.55:331][133]LogStaticMesh: Warning: _ncl1_34 has some nearly zero normals which can create some issues. (Tolerance of 1E-4)
+[2022.03.08-15.18.55:331][133]LogStaticMesh: Warning: _ncl1_34 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.03.08-15.18.55:350][133]LogMaterial: Display: Missing cached shadermap for cloth_bed in PCD3D_SM5, Default, SM5 (DDC key hash: A134BAD3B8C72046AFD94667F5B47DC03E9FFB4A), compiling. 
+[2022.03.08-15.18.55:382][133]LogFbx: Display: Triangulating static mesh polymsh25
+[2022.03.08-15.18.56:312][133]LogStaticMesh: Display: Generando la malla estática _ncl1_35...
+[2022.03.08-15.18.56:556][133]LogStaticMesh: Built static mesh [0.24s] /Game/LevelPrototyping/Meshes/_ncl1_35._ncl1_35
+[2022.03.08-15.18.56:618][133]LogStaticMesh: Warning: _ncl1_35 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.03.08-15.18.56:700][133]LogFbx: Display: Triangulating static mesh polymsh26
+[2022.03.08-15.18.57:052][133]LogStaticMesh: Display: Generando la malla estática _ncl1_36...
+[2022.03.08-15.18.57:140][133]LogStaticMesh: Built static mesh [0.09s] /Game/LevelPrototyping/Meshes/_ncl1_36._ncl1_36
+[2022.03.08-15.18.57:165][133]LogStaticMesh: Warning: _ncl1_36 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2022.03.08-15.18.57:165][133]LogStaticMesh: Warning: _ncl1_36 has some nearly zero normals which can create some issues. (Tolerance of 1E-4)
+[2022.03.08-15.18.57:165][133]LogStaticMesh: Warning: _ncl1_36 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.03.08-15.18.57:200][133]LogFbx: Display: Triangulating static mesh cylinder3
+[2022.03.08-15.18.57:272][133]LogStaticMesh: Display: Generando la malla estática _ncl1_37...
+[2022.03.08-15.18.57:293][133]LogStaticMesh: Built static mesh [0.02s] /Game/LevelPrototyping/Meshes/_ncl1_37._ncl1_37
+[2022.03.08-15.18.57:301][133]LogStaticMesh: Warning: _ncl1_37 has some nearly zero normals which can create some issues. (Tolerance of 1E-4)
+[2022.03.08-15.18.57:301][133]LogStaticMesh: Warning: _ncl1_37 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.03.08-15.18.57:328][133]LogFbx: Display: Triangulating static mesh polymsh_detached15
+[2022.03.08-15.18.57:651][133]LogStaticMesh: Display: Generando la malla estática _ncl1_38...
+[2022.03.08-15.18.57:749][133]LogStaticMesh: Built static mesh [0.10s] /Game/LevelPrototyping/Meshes/_ncl1_38._ncl1_38
+[2022.03.08-15.18.57:779][133]LogStaticMesh: Warning: _ncl1_38 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2022.03.08-15.18.57:779][133]LogStaticMesh: Warning: _ncl1_38 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.03.08-15.18.57:826][133]LogMaterial: Display: Missing cached shadermap for curtains in PCD3D_SM5, Default, SM5 (DDC key hash: 2F6541C615B7A872DEAE9729D5A12B0211732033), compiling. 
+[2022.03.08-15.18.57:891][133]LogFbx: Display: Triangulating static mesh polymsh27
+[2022.03.08-15.19.00:275][133]LogStaticMesh: Display: Generando la malla estática _ncl1_39...
+[2022.03.08-15.19.00:884][133]LogStaticMesh: Built static mesh [0.61s] /Game/LevelPrototyping/Meshes/_ncl1_39._ncl1_39
+[2022.03.08-15.19.01:052][133]LogStaticMesh: Warning: _ncl1_39 has some nearly zero normals which can create some issues. (Tolerance of 1E-4)
+[2022.03.08-15.19.01:052][133]LogStaticMesh: Warning: _ncl1_39 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.03.08-15.19.01:238][133]LogFbx: Display: Triangulating static mesh polymsh_detached16
+[2022.03.08-15.19.01:258][133]LogStaticMesh: Display: Generando la malla estática _ncl1_40...
+[2022.03.08-15.19.01:272][133]LogStaticMesh: Built static mesh [0.01s] /Game/LevelPrototyping/Meshes/_ncl1_40._ncl1_40
+[2022.03.08-15.19.01:287][133]LogFbx: Display: Triangulating static mesh polymsh29
+[2022.03.08-15.19.01:394][133]LogStaticMesh: Display: Generando la malla estática _ncl1_41...
+[2022.03.08-15.19.01:423][133]LogStaticMesh: Built static mesh [0.03s] /Game/LevelPrototyping/Meshes/_ncl1_41._ncl1_41
+[2022.03.08-15.19.01:432][133]LogStaticMesh: Warning: _ncl1_41 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2022.03.08-15.19.01:432][133]LogStaticMesh: Warning: _ncl1_41 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.03.08-15.19.01:475][133]LogMaterial: Display: Missing cached shadermap for screen_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 16B35C26B4527F623DAF3B0E3B7453C50CA8CA26), compiling. 
+[2022.03.08-15.19.01:503][133]LogTexture: Display: Building textures: /Game/LevelPrototyping/Meshes/screen_1_ncl1_1.screen_1_ncl1_1 (TFO_AutoDXT, 1280X720 X1X1) (Required Memory Estimate: 17.578125 MB), EncodeSpeed: Fast
+[2022.03.08-15.19.01:506][133]LogMaterial: Display: Missing cached shadermap for screen_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 023AC8CF7F131AE9A6AE5F47FE7E9DCE0BD3678B), compiling. 
+[2022.03.08-15.19.01:531][133]LogTexture: Display: Building textures: /Game/LevelPrototyping/Meshes/screen_2_ncl1_1.screen_2_ncl1_1 (TFO_AutoDXT, 1280X720 X1X1) (Required Memory Estimate: 17.578125 MB), EncodeSpeed: Fast
+[2022.03.08-15.19.01:535][133]LogMaterial: Display: Missing cached shadermap for screen_3 in PCD3D_SM5, Default, SM5 (DDC key hash: 535E5D7035D2760C84D52AF80CC5356DB5E11226), compiling. 
+[2022.03.08-15.19.01:587][133]LogTexture: Display: Building textures: /Game/LevelPrototyping/Meshes/screen_3_ncl1_1.screen_3_ncl1_1 (TFO_AutoDXT, 1280X720 X1X1) (Required Memory Estimate: 17.578125 MB), EncodeSpeed: Fast
+[2022.03.08-15.19.01:591][133]LogMaterial: Display: Missing cached shadermap for screen_4 in PCD3D_SM5, Default, SM5 (DDC key hash: 31A56E8E52E737DC1DD4C8356854A7BA6F724267), compiling. 
+[2022.03.08-15.19.01:593][133]LogFbx: Display: Triangulating static mesh polymsh_detached17
+[2022.03.08-15.19.01:595][133]LogTexture: Display: Building textures: /Game/LevelPrototyping/Meshes/screen_4_ncl1_1.screen_4_ncl1_1 (TFO_AutoDXT, 1280X720 X1X1) (Required Memory Estimate: 17.578125 MB), EncodeSpeed: Fast
+[2022.03.08-15.19.01:596][133]LogStaticMesh: Display: Generando la malla estática _ncl1_42...
+[2022.03.08-15.19.01:602][133]LogStaticMesh: Built static mesh [0.01s] /Game/LevelPrototyping/Meshes/_ncl1_42._ncl1_42
+[2022.03.08-15.19.01:706][133]LogTexture: Display: Building textures: /Game/LevelPrototyping/Meshes/screen_5_ncl1_1.screen_5_ncl1_1 (TFO_AutoDXT, 1280X720 X1X1) (Required Memory Estimate: 17.578125 MB), EncodeSpeed: Fast
+[2022.03.08-15.19.01:706][133]LogTexture: Display: Building textures: /Game/LevelPrototyping/Meshes/screen_5_ncl1_2.screen_5_ncl1_2 (TFO_AutoDXT, 1280X720 X1X1) (Required Memory Estimate: 17.578125 MB), EncodeSpeed: Fast
+[2022.03.08-15.19.01:712][133]LogMaterial: Display: Missing cached shadermap for screen_5 in PCD3D_SM5, Default, SM5 (DDC key hash: 5E1CDDAD7A859C73E96FF0ACEE73907FD8A5897D), compiling. 
+[2022.03.08-15.19.01:716][133]LogFbx: Display: Triangulating static mesh polymsh_detached18
+[2022.03.08-15.19.01:719][133]LogStaticMesh: Display: Generando la malla estática _ncl1_43...
+[2022.03.08-15.19.01:722][133]LogStaticMesh: Built static mesh [0.00s] /Game/LevelPrototyping/Meshes/_ncl1_43._ncl1_43
+[2022.03.08-15.19.01:732][133]LogMaterial: Display: Missing cached shadermap for coffee in PCD3D_SM5, Default, SM5 (DDC key hash: 166B64A1AA713CF87F883F26C08EEDE1238B86DC), compiling. 
+[2022.03.08-15.19.01:739][133]LogFbx: Display: Triangulating static mesh cylinder4
+[2022.03.08-15.19.01:929][133]LogStaticMesh: Display: Generando la malla estática _ncl1_44...
+[2022.03.08-15.19.01:984][133]LogStaticMesh: Built static mesh [0.06s] /Game/LevelPrototyping/Meshes/_ncl1_44._ncl1_44
+[2022.03.08-15.19.01:998][133]LogStaticMesh: Warning: _ncl1_44 has some nearly zero normals which can create some issues. (Tolerance of 1E-4)
+[2022.03.08-15.19.01:998][133]LogStaticMesh: Warning: _ncl1_44 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.03.08-15.19.02:024][133]LogFbx: Display: Triangulating static mesh polymsh_detached20
+[2022.03.08-15.19.02:261][133]LogStaticMesh: Display: Generando la malla estática _ncl1_45...
+[2022.03.08-15.19.02:322][133]LogStaticMesh: Built static mesh [0.06s] /Game/LevelPrototyping/Meshes/_ncl1_45._ncl1_45
+[2022.03.08-15.19.02:340][133]LogStaticMesh: Warning: _ncl1_45 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2022.03.08-15.19.02:340][133]LogStaticMesh: Warning: _ncl1_45 has some nearly zero normals which can create some issues. (Tolerance of 1E-4)
+[2022.03.08-15.19.02:340][133]LogStaticMesh: Warning: _ncl1_45 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.03.08-15.19.02:369][133]LogMaterial: Display: Missing cached shadermap for floor_light_gray in PCD3D_SM5, Default, SM5 (DDC key hash: 3AD9AA7B672A80B78A8C3020BBD99C589716A33C), compiling. 
+[2022.03.08-15.19.02:403][133]LogFbx: Display: Triangulating static mesh polymsh31
+[2022.03.08-15.19.03:165][133]LogStaticMesh: Display: Generando la malla estática _ncl1_46...
+[2022.03.08-15.19.03:444][133]LogStaticMesh: Built static mesh [0.28s] /Game/LevelPrototyping/Meshes/_ncl1_46._ncl1_46
+[2022.03.08-15.19.03:505][133]LogStaticMesh: Warning: _ncl1_46 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2022.03.08-15.19.03:505][133]LogStaticMesh: Warning: _ncl1_46 has some nearly zero normals which can create some issues. (Tolerance of 1E-4)
+[2022.03.08-15.19.03:505][133]LogStaticMesh: Warning: _ncl1_46 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.03.08-15.19.03:583][133]LogFbx: Display: Triangulating static mesh polymsh_detached23
+[2022.03.08-15.19.03:883][133]LogStaticMesh: Display: Generando la malla estática _ncl1_47...
+[2022.03.08-15.19.03:974][133]LogStaticMesh: Built static mesh [0.09s] /Game/LevelPrototyping/Meshes/_ncl1_47._ncl1_47
+[2022.03.08-15.19.04:002][133]LogStaticMesh: Warning: _ncl1_47 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2022.03.08-15.19.04:002][133]LogStaticMesh: Warning: _ncl1_47 has some nearly zero normals which can create some issues. (Tolerance of 1E-4)
+[2022.03.08-15.19.04:002][133]LogStaticMesh: Warning: _ncl1_47 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.03.08-15.19.04:037][133]LogFbx: Display: Triangulating static mesh cylinder7
+[2022.03.08-15.19.04:050][133]LogStaticMesh: Display: Generando la malla estática _ncl1_48...
+[2022.03.08-15.19.04:055][133]LogStaticMesh: Built static mesh [0.01s] /Game/LevelPrototyping/Meshes/_ncl1_48._ncl1_48
+[2022.03.08-15.19.04:059][133]LogStaticMesh: Warning: _ncl1_48 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2022.03.08-15.19.04:059][133]LogStaticMesh: Warning: _ncl1_48 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.03.08-15.19.04:067][133]LogFbx: Display: Triangulating static mesh cube12
+[2022.03.08-15.19.04:072][133]LogStaticMesh: Display: Generando la malla estática _ncl1_49...
+[2022.03.08-15.19.04:075][133]LogStaticMesh: Built static mesh [0.00s] /Game/LevelPrototyping/Meshes/_ncl1_49._ncl1_49
+[2022.03.08-15.19.04:097][133]LogStaticMesh: Display: Generando la malla estática polymsh...
+[2022.03.08-15.19.04:097][133]LogStaticMesh: Built static mesh [0.00s] /Game/LevelPrototyping/Meshes/polymsh.polymsh
+[2022.03.08-15.19.04:097][133]LogStaticMesh: Warning: polymsh has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2022.03.08-15.19.04:097][133]LogStaticMesh: Warning: polymsh has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.03.08-15.19.04:115][133]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/LevelPrototyping/Meshes/_ncl1_1) ...
+[2022.03.08-15.19.04:134][133]LogStaticMesh: Display: Generando la malla estática _ncl1_2...
+[2022.03.08-15.19.04:134][133]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/LevelPrototyping/Meshes/_ncl1_2) ...
+[2022.03.08-15.19.04:151][133]LogStaticMesh: Built static mesh [0.02s] /Game/LevelPrototyping/Meshes/_ncl1_2._ncl1_2
+[2022.03.08-15.19.04:151][133]LogStaticMesh: Warning: _ncl1_2 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2022.03.08-15.19.04:151][133]LogStaticMesh: Warning: _ncl1_2 has some nearly zero normals which can create some issues. (Tolerance of 1E-4)
+[2022.03.08-15.19.04:151][133]LogStaticMesh: Warning: _ncl1_2 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.03.08-15.19.04:170][133]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/LevelPrototyping/Meshes/_ncl1_3) ...
+[2022.03.08-15.19.04:259][133]LogStaticMesh: Display: Generando la malla estática _ncl1_7...
+[2022.03.08-15.19.04:259][133]LogStaticMesh: Built static mesh [0.01s] /Game/LevelPrototyping/Meshes/_ncl1_7._ncl1_7
+[2022.03.08-15.19.04:259][133]LogStaticMesh: Warning: _ncl1_7 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2022.03.08-15.19.04:259][133]LogStaticMesh: Warning: _ncl1_7 has some nearly zero normals which can create some issues. (Tolerance of 1E-4)
+[2022.03.08-15.19.04:259][133]LogStaticMesh: Warning: _ncl1_7 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.03.08-15.19.04:277][133]LogStaticMesh: Display: Generando la malla estática _ncl1_8...
+[2022.03.08-15.19.04:277][133]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/LevelPrototyping/Meshes/_ncl1_8) ...
+[2022.03.08-15.19.04:447][133]LogStaticMesh: Built static mesh [0.17s] /Game/LevelPrototyping/Meshes/_ncl1_8._ncl1_8
+[2022.03.08-15.19.04:470][133]LogStaticMesh: Warning: _ncl1_8 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2022.03.08-15.19.04:470][133]LogStaticMesh: Warning: _ncl1_8 has some nearly zero normals which can create some issues. (Tolerance of 1E-4)
+[2022.03.08-15.19.04:470][133]LogStaticMesh: Warning: _ncl1_8 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.03.08-15.19.04:488][133]LogStaticMesh: Display: Generando la malla estática _ncl1_9...
+[2022.03.08-15.19.04:488][133]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/LevelPrototyping/Meshes/_ncl1_9) ...
+[2022.03.08-15.19.04:525][133]LogStaticMesh: Built static mesh [0.04s] /Game/LevelPrototyping/Meshes/_ncl1_9._ncl1_9
+[2022.03.08-15.19.04:525][133]LogStaticMesh: Warning: _ncl1_9 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2022.03.08-15.19.04:525][133]LogStaticMesh: Warning: _ncl1_9 has some nearly zero normals which can create some issues. (Tolerance of 1E-4)
+[2022.03.08-15.19.04:525][133]LogStaticMesh: Warning: _ncl1_9 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.03.08-15.19.04:542][133]LogStaticMesh: Display: Generando la malla estática _ncl1_10...
+[2022.03.08-15.19.04:542][133]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/LevelPrototyping/Meshes/_ncl1_10) ...
+[2022.03.08-15.19.04:559][133]LogStaticMesh: Built static mesh [0.02s] /Game/LevelPrototyping/Meshes/_ncl1_10._ncl1_10
+[2022.03.08-15.19.04:560][133]LogStaticMesh: Warning: _ncl1_10 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2022.03.08-15.19.04:560][133]LogStaticMesh: Warning: _ncl1_10 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.03.08-15.19.04:570][133]LogStaticMesh: Display: Generando la malla estática _ncl1_11...
+[2022.03.08-15.19.04:570][133]LogStaticMesh: Built static mesh [0.00s] /Game/LevelPrototyping/Meshes/_ncl1_11._ncl1_11
+[2022.03.08-15.19.04:575][133]LogStaticMesh: Display: Generando la malla estática _ncl1_12...
+[2022.03.08-15.19.04:575][133]LogStaticMesh: Built static mesh [0.00s] /Game/LevelPrototyping/Meshes/_ncl1_12._ncl1_12
+[2022.03.08-15.19.04:592][133]LogStaticMesh: Display: Generando la malla estática _ncl1_13...
+[2022.03.08-15.19.04:592][133]LogStaticMesh: Built static mesh [0.02s] /Game/LevelPrototyping/Meshes/_ncl1_13._ncl1_13
+[2022.03.08-15.19.04:592][133]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/LevelPrototyping/Meshes/_ncl1_13) ...
+[2022.03.08-15.19.04:598][133]LogStaticMesh: Warning: _ncl1_13 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2022.03.08-15.19.04:598][133]LogStaticMesh: Warning: _ncl1_13 has some nearly zero normals which can create some issues. (Tolerance of 1E-4)
+[2022.03.08-15.19.04:598][133]LogStaticMesh: Warning: _ncl1_13 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.03.08-15.19.04:608][133]LogStaticMesh: Display: Generando la malla estática _ncl1_14...
+[2022.03.08-15.19.04:608][133]LogStaticMesh: Built static mesh [0.01s] /Game/LevelPrototyping/Meshes/_ncl1_14._ncl1_14
+[2022.03.08-15.19.04:608][133]LogStaticMesh: Warning: _ncl1_14 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2022.03.08-15.19.04:608][133]LogStaticMesh: Warning: _ncl1_14 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.03.08-15.19.04:625][133]LogStaticMesh: Display: Generando la malla estática _ncl1_15...
+[2022.03.08-15.19.04:625][133]LogStaticMesh: Built static mesh [0.01s] /Game/LevelPrototyping/Meshes/_ncl1_15._ncl1_15
+[2022.03.08-15.19.04:625][133]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/LevelPrototyping/Meshes/_ncl1_15) ...
+[2022.03.08-15.19.04:629][133]LogStaticMesh: Warning: _ncl1_15 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2022.03.08-15.19.04:629][133]LogStaticMesh: Warning: _ncl1_15 has some nearly zero normals which can create some issues. (Tolerance of 1E-4)
+[2022.03.08-15.19.04:629][133]LogStaticMesh: Warning: _ncl1_15 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.03.08-15.19.04:648][133]LogStaticMesh: Display: Generando la malla estática _ncl1_16...
+[2022.03.08-15.19.04:648][133]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/LevelPrototyping/Meshes/_ncl1_16) ...
+[2022.03.08-15.19.04:939][133]LogStaticMesh: Built static mesh [0.24s] /Game/LevelPrototyping/Meshes/_ncl1_16._ncl1_16
+[2022.03.08-15.19.04:939][133]LogStaticMesh: Warning: _ncl1_16 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2022.03.08-15.19.04:939][133]LogStaticMesh: Warning: _ncl1_16 has some nearly zero normals which can create some issues. (Tolerance of 1E-4)
+[2022.03.08-15.19.04:939][133]LogStaticMesh: Warning: _ncl1_16 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.03.08-15.19.04:958][133]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/LevelPrototyping/Meshes/_ncl1_17) ...
+[2022.03.08-15.19.05:073][133]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/LevelPrototyping/Meshes/_ncl1_19) ...
+[2022.03.08-15.19.05:118][133]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/LevelPrototyping/Meshes/_ncl1_23) ...
+[2022.03.08-15.19.05:155][133]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/LevelPrototyping/Meshes/_ncl1_27) ...
+[2022.03.08-15.19.05:168][133]LogStaticMesh: Display: Generando la malla estática _ncl1_28...
+[2022.03.08-15.19.05:168][133]LogStaticMesh: Built static mesh [0.00s] /Game/LevelPrototyping/Meshes/_ncl1_28._ncl1_28
+[2022.03.08-15.19.05:168][133]LogStaticMesh: Warning: _ncl1_28 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2022.03.08-15.19.05:168][133]LogStaticMesh: Warning: _ncl1_28 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.03.08-15.19.05:185][133]LogStaticMesh: Display: Generando la malla estática _ncl1_29...
+[2022.03.08-15.19.05:185][133]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/LevelPrototyping/Meshes/_ncl1_29) ...
+[2022.03.08-15.19.05:211][133]LogStaticMesh: Built static mesh [0.03s] /Game/LevelPrototyping/Meshes/_ncl1_29._ncl1_29
+[2022.03.08-15.19.05:228][133]LogStaticMesh: Display: Generando la malla estática _ncl1_30...
+[2022.03.08-15.19.05:228][133]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/LevelPrototyping/Meshes/_ncl1_30) ...
+[2022.03.08-15.19.05:323][133]LogStaticMesh: Built static mesh [0.09s] /Game/LevelPrototyping/Meshes/_ncl1_30._ncl1_30
+[2022.03.08-15.19.05:323][133]LogStaticMesh: Warning: _ncl1_30 has some nearly zero normals which can create some issues. (Tolerance of 1E-4)
+[2022.03.08-15.19.05:323][133]LogStaticMesh: Warning: _ncl1_30 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.03.08-15.19.05:341][133]LogStaticMesh: Display: Generando la malla estática _ncl1_31...
+[2022.03.08-15.19.05:341][133]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/LevelPrototyping/Meshes/_ncl1_31) ...
+[2022.03.08-15.19.05:354][133]LogStaticMesh: Built static mesh [0.02s] /Game/LevelPrototyping/Meshes/_ncl1_31._ncl1_31
+[2022.03.08-15.19.05:371][133]LogStaticMesh: Display: Generando la malla estática _ncl1_32...
+[2022.03.08-15.19.05:371][133]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/LevelPrototyping/Meshes/_ncl1_32) ...
+[2022.03.08-15.19.05:399][133]LogStaticMesh: Built static mesh [0.03s] /Game/LevelPrototyping/Meshes/_ncl1_32._ncl1_32
+[2022.03.08-15.19.05:399][133]LogStaticMesh: Warning: _ncl1_32 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2022.03.08-15.19.05:399][133]LogStaticMesh: Warning: _ncl1_32 has some nearly zero normals which can create some issues. (Tolerance of 1E-4)
+[2022.03.08-15.19.05:399][133]LogStaticMesh: Warning: _ncl1_32 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.03.08-15.19.05:417][133]LogStaticMesh: Display: Generando la malla estática _ncl1_33...
+[2022.03.08-15.19.05:417][133]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/LevelPrototyping/Meshes/_ncl1_33) ...
+[2022.03.08-15.19.05:638][133]LogStaticMesh: Built static mesh [0.19s] /Game/LevelPrototyping/Meshes/_ncl1_33._ncl1_33
+[2022.03.08-15.19.05:638][133]LogStaticMesh: Warning: _ncl1_33 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2022.03.08-15.19.05:638][133]LogStaticMesh: Warning: _ncl1_33 has some nearly zero normals which can create some issues. (Tolerance of 1E-4)
+[2022.03.08-15.19.05:638][133]LogStaticMesh: Warning: _ncl1_33 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.03.08-15.19.05:668][133]LogStaticMesh: Display: Generando la malla estática _ncl1_35...
+[2022.03.08-15.19.05:668][133]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/LevelPrototyping/Meshes/_ncl1_35) ...
+[2022.03.08-15.19.05:962][133]LogStaticMesh: Built static mesh [0.25s] /Game/LevelPrototyping/Meshes/_ncl1_35._ncl1_35
+[2022.03.08-15.19.05:963][133]LogStaticMesh: Warning: _ncl1_35 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.03.08-15.19.05:981][133]LogStaticMesh: Display: Generando la malla estática _ncl1_36...
+[2022.03.08-15.19.05:981][133]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/LevelPrototyping/Meshes/_ncl1_36) ...
+[2022.03.08-15.19.06:075][133]LogStaticMesh: Built static mesh [0.09s] /Game/LevelPrototyping/Meshes/_ncl1_36._ncl1_36
+[2022.03.08-15.19.06:075][133]LogStaticMesh: Warning: _ncl1_36 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2022.03.08-15.19.06:075][133]LogStaticMesh: Warning: _ncl1_36 has some nearly zero normals which can create some issues. (Tolerance of 1E-4)
+[2022.03.08-15.19.06:075][133]LogStaticMesh: Warning: _ncl1_36 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.03.08-15.19.06:094][133]LogStaticMesh: Display: Generando la malla estática _ncl1_37...
+[2022.03.08-15.19.06:094][133]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/LevelPrototyping/Meshes/_ncl1_37) ...
+[2022.03.08-15.19.06:107][133]LogStaticMesh: Built static mesh [0.02s] /Game/LevelPrototyping/Meshes/_ncl1_37._ncl1_37
+[2022.03.08-15.19.06:107][133]LogStaticMesh: Warning: _ncl1_37 has some nearly zero normals which can create some issues. (Tolerance of 1E-4)
+[2022.03.08-15.19.06:107][133]LogStaticMesh: Warning: _ncl1_37 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.03.08-15.19.06:124][133]LogStaticMesh: Display: Generando la malla estática _ncl1_38...
+[2022.03.08-15.19.06:124][133]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/LevelPrototyping/Meshes/_ncl1_38) ...
+[2022.03.08-15.19.06:230][133]LogStaticMesh: Built static mesh [0.09s] /Game/LevelPrototyping/Meshes/_ncl1_38._ncl1_38
+[2022.03.08-15.19.06:230][133]LogStaticMesh: Warning: _ncl1_38 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2022.03.08-15.19.06:231][133]LogStaticMesh: Warning: _ncl1_38 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.03.08-15.19.06:253][133]LogStaticMesh: Display: Generando la malla estática _ncl1_39...
+[2022.03.08-15.19.06:253][133]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/LevelPrototyping/Meshes/_ncl1_39) ...
+[2022.03.08-15.19.06:900][133]LogStaticMesh: Built static mesh [0.62s] /Game/LevelPrototyping/Meshes/_ncl1_39._ncl1_39
+[2022.03.08-15.19.07:028][133]LogStaticMesh: Warning: _ncl1_39 has some nearly zero normals which can create some issues. (Tolerance of 1E-4)
+[2022.03.08-15.19.07:028][133]LogStaticMesh: Warning: _ncl1_39 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.03.08-15.19.07:046][133]LogStaticMesh: Display: Generando la malla estática _ncl1_40...
+[2022.03.08-15.19.07:046][133]LogStaticMesh: Built static mesh [0.01s] /Game/LevelPrototyping/Meshes/_ncl1_40._ncl1_40
+[2022.03.08-15.19.07:046][133]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/LevelPrototyping/Meshes/_ncl1_40) ...
+[2022.03.08-15.19.07:067][133]LogStaticMesh: Display: Generando la malla estática _ncl1_42...
+[2022.03.08-15.19.07:067][133]LogStaticMesh: Built static mesh [0.01s] /Game/LevelPrototyping/Meshes/_ncl1_42._ncl1_42
+[2022.03.08-15.19.07:074][133]LogStaticMesh: Display: Generando la malla estática _ncl1_43...
+[2022.03.08-15.19.07:074][133]LogStaticMesh: Built static mesh [0.00s] /Game/LevelPrototyping/Meshes/_ncl1_43._ncl1_43
+[2022.03.08-15.19.07:093][133]LogStaticMesh: Display: Generando la malla estática _ncl1_44...
+[2022.03.08-15.19.07:093][133]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/LevelPrototyping/Meshes/_ncl1_44) ...
+[2022.03.08-15.19.07:143][133]LogStaticMesh: Built static mesh [0.05s] /Game/LevelPrototyping/Meshes/_ncl1_44._ncl1_44
+[2022.03.08-15.19.07:143][133]LogStaticMesh: Warning: _ncl1_44 has some nearly zero normals which can create some issues. (Tolerance of 1E-4)
+[2022.03.08-15.19.07:143][133]LogStaticMesh: Warning: _ncl1_44 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.03.08-15.19.07:161][133]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/LevelPrototyping/Meshes/_ncl1_45) ...
+[2022.03.08-15.19.07:183][133]LogStaticMesh: Display: Generando la malla estática _ncl1_46...
+[2022.03.08-15.19.07:183][133]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/LevelPrototyping/Meshes/_ncl1_46) ...
+[2022.03.08-15.19.07:472][133]LogStaticMesh: Built static mesh [0.24s] /Game/LevelPrototyping/Meshes/_ncl1_46._ncl1_46
+[2022.03.08-15.19.07:472][133]LogStaticMesh: Warning: _ncl1_46 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2022.03.08-15.19.07:472][133]LogStaticMesh: Warning: _ncl1_46 has some nearly zero normals which can create some issues. (Tolerance of 1E-4)
+[2022.03.08-15.19.07:472][133]LogStaticMesh: Warning: _ncl1_46 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.03.08-15.19.07:491][133]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/LevelPrototyping/Meshes/_ncl1_47) ...
+[2022.03.08-15.19.07:515][133]LogStaticMesh: Display: Generando la malla estática _ncl1_48...
+[2022.03.08-15.19.07:515][133]LogStaticMesh: Built static mesh [0.01s] /Game/LevelPrototyping/Meshes/_ncl1_48._ncl1_48
+[2022.03.08-15.19.07:515][133]LogStaticMesh: Warning: _ncl1_48 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2022.03.08-15.19.07:515][133]LogStaticMesh: Warning: _ncl1_48 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.03.08-15.19.07:550][133]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.Actor
+[2022.03.08-15.19.07:551][133]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.Actor
+[2022.03.08-15.19.07:592][133]LogActorFactory: Actor Factory spawned Class /Script/Engine.Actor as actor: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Actor_0
+[2022.03.08-15.19.07:592][133]LogActorFactory: Actor Factory spawned Class /Script/Engine.Actor as actor: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Actor_0
+[2022.03.08-15.19.07:777][133]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2022.03.08-15.19.07:861][133]PIE: Warning: AttachTo: '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.DefaultSceneRoot' no es estático  (in blueprint "FbxScene_Oblivion_Sky_tower_v20"), no puede anexar '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.polymsh' lo que es estático a él. Abortando.
+[2022.03.08-15.19.07:862][133]PIE: Warning: AttachTo: '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.DefaultSceneRoot' no es estático  (in blueprint "FbxScene_Oblivion_Sky_tower_v20"), no puede anexar '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.cube2' lo que es estático a él. Abortando.
+[2022.03.08-15.19.07:862][133]PIE: Warning: AttachTo: '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.DefaultSceneRoot' no es estático  (in blueprint "FbxScene_Oblivion_Sky_tower_v20"), no puede anexar '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.polymsh_detached' lo que es estático a él. Abortando.
+[2022.03.08-15.19.07:862][133]PIE: Warning: AttachTo: '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.DefaultSceneRoot' no es estático  (in blueprint "FbxScene_Oblivion_Sky_tower_v20"), no puede anexar '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.polymsh1' lo que es estático a él. Abortando.
+[2022.03.08-15.19.07:862][133]PIE: Warning: AttachTo: '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.DefaultSceneRoot' no es estático  (in blueprint "FbxScene_Oblivion_Sky_tower_v20"), no puede anexar '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.cylinder' lo que es estático a él. Abortando.
+[2022.03.08-15.19.07:862][133]PIE: Warning: AttachTo: '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.DefaultSceneRoot' no es estático  (in blueprint "FbxScene_Oblivion_Sky_tower_v20"), no puede anexar '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.polymsh5' lo que es estático a él. Abortando.
+[2022.03.08-15.19.07:862][133]PIE: Warning: AttachTo: '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.DefaultSceneRoot' no es estático  (in blueprint "FbxScene_Oblivion_Sky_tower_v20"), no puede anexar '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.cylinder1' lo que es estático a él. Abortando.
+[2022.03.08-15.19.07:863][133]PIE: Warning: AttachTo: '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.DefaultSceneRoot' no es estático  (in blueprint "FbxScene_Oblivion_Sky_tower_v20"), no puede anexar '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.polymsh_detached2' lo que es estático a él. Abortando.
+[2022.03.08-15.19.07:863][133]PIE: Warning: AttachTo: '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.DefaultSceneRoot' no es estático  (in blueprint "FbxScene_Oblivion_Sky_tower_v20"), no puede anexar '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.cube3' lo que es estático a él. Abortando.
+[2022.03.08-15.19.07:863][133]PIE: Warning: AttachTo: '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.DefaultSceneRoot' no es estático  (in blueprint "FbxScene_Oblivion_Sky_tower_v20"), no puede anexar '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.polymsh_detached3' lo que es estático a él. Abortando.
+[2022.03.08-15.19.07:863][133]PIE: Warning: AttachTo: '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.DefaultSceneRoot' no es estático  (in blueprint "FbxScene_Oblivion_Sky_tower_v20"), no puede anexar '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.cube4' lo que es estático a él. Abortando.
+[2022.03.08-15.19.07:863][133]PIE: Warning: AttachTo: '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.DefaultSceneRoot' no es estático  (in blueprint "FbxScene_Oblivion_Sky_tower_v20"), no puede anexar '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.polymsh_detached4' lo que es estático a él. Abortando.
+[2022.03.08-15.19.07:864][133]PIE: Warning: AttachTo: '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.DefaultSceneRoot' no es estático  (in blueprint "FbxScene_Oblivion_Sky_tower_v20"), no puede anexar '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.polymsh7' lo que es estático a él. Abortando.
+[2022.03.08-15.19.07:864][133]PIE: Warning: AttachTo: '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.DefaultSceneRoot' no es estático  (in blueprint "FbxScene_Oblivion_Sky_tower_v20"), no puede anexar '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.polymsh8' lo que es estático a él. Abortando.
+[2022.03.08-15.19.07:864][133]PIE: Warning: AttachTo: '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.DefaultSceneRoot' no es estático  (in blueprint "FbxScene_Oblivion_Sky_tower_v20"), no puede anexar '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.cube5' lo que es estático a él. Abortando.
+[2022.03.08-15.19.07:864][133]PIE: Warning: AttachTo: '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.DefaultSceneRoot' no es estático  (in blueprint "FbxScene_Oblivion_Sky_tower_v20"), no puede anexar '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.polymsh11' lo que es estático a él. Abortando.
+[2022.03.08-15.19.07:864][133]PIE: Warning: AttachTo: '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.DefaultSceneRoot' no es estático  (in blueprint "FbxScene_Oblivion_Sky_tower_v20"), no puede anexar '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.polymsh12' lo que es estático a él. Abortando.
+[2022.03.08-15.19.07:864][133]PIE: Warning: AttachTo: '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.DefaultSceneRoot' no es estático  (in blueprint "FbxScene_Oblivion_Sky_tower_v20"), no puede anexar '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.polymsh13' lo que es estático a él. Abortando.
+[2022.03.08-15.19.07:865][133]PIE: Warning: AttachTo: '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.DefaultSceneRoot' no es estático  (in blueprint "FbxScene_Oblivion_Sky_tower_v20"), no puede anexar '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.polymsh_detached7' lo que es estático a él. Abortando.
+[2022.03.08-15.19.07:865][133]PIE: Warning: AttachTo: '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.DefaultSceneRoot' no es estático  (in blueprint "FbxScene_Oblivion_Sky_tower_v20"), no puede anexar '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.polymsh20' lo que es estático a él. Abortando.
+[2022.03.08-15.19.07:865][133]PIE: Warning: AttachTo: '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.DefaultSceneRoot' no es estático  (in blueprint "FbxScene_Oblivion_Sky_tower_v20"), no puede anexar '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.cube6' lo que es estático a él. Abortando.
+[2022.03.08-15.19.07:865][133]PIE: Warning: AttachTo: '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.DefaultSceneRoot' no es estático  (in blueprint "FbxScene_Oblivion_Sky_tower_v20"), no puede anexar '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.cube7' lo que es estático a él. Abortando.
+[2022.03.08-15.19.07:865][133]PIE: Warning: AttachTo: '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.DefaultSceneRoot' no es estático  (in blueprint "FbxScene_Oblivion_Sky_tower_v20"), no puede anexar '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.cube8' lo que es estático a él. Abortando.
+[2022.03.08-15.19.07:866][133]PIE: Warning: AttachTo: '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.DefaultSceneRoot' no es estático  (in blueprint "FbxScene_Oblivion_Sky_tower_v20"), no puede anexar '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.cube9' lo que es estático a él. Abortando.
+[2022.03.08-15.19.07:866][133]PIE: Warning: AttachTo: '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.DefaultSceneRoot' no es estático  (in blueprint "FbxScene_Oblivion_Sky_tower_v20"), no puede anexar '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.polymsh_detached10' lo que es estático a él. Abortando.
+[2022.03.08-15.19.07:866][133]PIE: Warning: AttachTo: '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.DefaultSceneRoot' no es estático  (in blueprint "FbxScene_Oblivion_Sky_tower_v20"), no puede anexar '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.polymsh_detached11' lo que es estático a él. Abortando.
+[2022.03.08-15.19.07:866][133]PIE: Warning: AttachTo: '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.DefaultSceneRoot' no es estático  (in blueprint "FbxScene_Oblivion_Sky_tower_v20"), no puede anexar '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.polymsh_detached12' lo que es estático a él. Abortando.
+[2022.03.08-15.19.07:866][133]PIE: Warning: AttachTo: '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.DefaultSceneRoot' no es estático  (in blueprint "FbxScene_Oblivion_Sky_tower_v20"), no puede anexar '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.polymsh23' lo que es estático a él. Abortando.
+[2022.03.08-15.19.07:866][133]PIE: Warning: AttachTo: '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.DefaultSceneRoot' no es estático  (in blueprint "FbxScene_Oblivion_Sky_tower_v20"), no puede anexar '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.polymsh_detached13' lo que es estático a él. Abortando.
+[2022.03.08-15.19.07:867][133]PIE: Warning: AttachTo: '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.DefaultSceneRoot' no es estático  (in blueprint "FbxScene_Oblivion_Sky_tower_v20"), no puede anexar '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.hall_rings' lo que es estático a él. Abortando.
+[2022.03.08-15.19.07:867][133]PIE: Warning: AttachTo: '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.DefaultSceneRoot' no es estático  (in blueprint "FbxScene_Oblivion_Sky_tower_v20"), no puede anexar '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.jars' lo que es estático a él. Abortando.
+[2022.03.08-15.19.07:867][133]PIE: Warning: AttachTo: '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.DefaultSceneRoot' no es estático  (in blueprint "FbxScene_Oblivion_Sky_tower_v20"), no puede anexar '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.polymsh_detached14' lo que es estático a él. Abortando.
+[2022.03.08-15.19.07:867][133]PIE: Warning: AttachTo: '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.DefaultSceneRoot' no es estático  (in blueprint "FbxScene_Oblivion_Sky_tower_v20"), no puede anexar '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.dineer_cups' lo que es estático a él. Abortando.
+[2022.03.08-15.19.07:867][133]PIE: Warning: AttachTo: '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.DefaultSceneRoot' no es estático  (in blueprint "FbxScene_Oblivion_Sky_tower_v20"), no puede anexar '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.cube10' lo que es estático a él. Abortando.
+[2022.03.08-15.19.07:868][133]PIE: Warning: AttachTo: '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.DefaultSceneRoot' no es estático  (in blueprint "FbxScene_Oblivion_Sky_tower_v20"), no puede anexar '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.polymsh24' lo que es estático a él. Abortando.
+[2022.03.08-15.19.07:868][133]PIE: Warning: AttachTo: '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.DefaultSceneRoot' no es estático  (in blueprint "FbxScene_Oblivion_Sky_tower_v20"), no puede anexar '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.polymsh25' lo que es estático a él. Abortando.
+[2022.03.08-15.19.07:868][133]PIE: Warning: AttachTo: '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.DefaultSceneRoot' no es estático  (in blueprint "FbxScene_Oblivion_Sky_tower_v20"), no puede anexar '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.polymsh26' lo que es estático a él. Abortando.
+[2022.03.08-15.19.07:868][133]PIE: Warning: AttachTo: '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.DefaultSceneRoot' no es estático  (in blueprint "FbxScene_Oblivion_Sky_tower_v20"), no puede anexar '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.cylinder3' lo que es estático a él. Abortando.
+[2022.03.08-15.19.07:868][133]PIE: Warning: AttachTo: '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.DefaultSceneRoot' no es estático  (in blueprint "FbxScene_Oblivion_Sky_tower_v20"), no puede anexar '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.polymsh_detached15' lo que es estático a él. Abortando.
+[2022.03.08-15.19.07:868][133]PIE: Warning: AttachTo: '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.DefaultSceneRoot' no es estático  (in blueprint "FbxScene_Oblivion_Sky_tower_v20"), no puede anexar '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.polymsh27' lo que es estático a él. Abortando.
+[2022.03.08-15.19.07:869][133]PIE: Warning: AttachTo: '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.DefaultSceneRoot' no es estático  (in blueprint "FbxScene_Oblivion_Sky_tower_v20"), no puede anexar '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.polymsh_detached16' lo que es estático a él. Abortando.
+[2022.03.08-15.19.07:869][133]PIE: Warning: AttachTo: '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.DefaultSceneRoot' no es estático  (in blueprint "FbxScene_Oblivion_Sky_tower_v20"), no puede anexar '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.polymsh29' lo que es estático a él. Abortando.
+[2022.03.08-15.19.07:869][133]PIE: Warning: AttachTo: '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.DefaultSceneRoot' no es estático  (in blueprint "FbxScene_Oblivion_Sky_tower_v20"), no puede anexar '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.polymsh_detached17' lo que es estático a él. Abortando.
+[2022.03.08-15.19.07:869][133]PIE: Warning: AttachTo: '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.DefaultSceneRoot' no es estático  (in blueprint "FbxScene_Oblivion_Sky_tower_v20"), no puede anexar '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.polymsh_detached18' lo que es estático a él. Abortando.
+[2022.03.08-15.19.07:869][133]PIE: Warning: AttachTo: '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.DefaultSceneRoot' no es estático  (in blueprint "FbxScene_Oblivion_Sky_tower_v20"), no puede anexar '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.cylinder4' lo que es estático a él. Abortando.
+[2022.03.08-15.19.07:870][133]PIE: Warning: AttachTo: '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.DefaultSceneRoot' no es estático  (in blueprint "FbxScene_Oblivion_Sky_tower_v20"), no puede anexar '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.polymsh_detached20' lo que es estático a él. Abortando.
+[2022.03.08-15.19.07:870][133]PIE: Warning: AttachTo: '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.DefaultSceneRoot' no es estático  (in blueprint "FbxScene_Oblivion_Sky_tower_v20"), no puede anexar '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.polymsh31' lo que es estático a él. Abortando.
+[2022.03.08-15.19.07:870][133]PIE: Warning: AttachTo: '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.DefaultSceneRoot' no es estático  (in blueprint "FbxScene_Oblivion_Sky_tower_v20"), no puede anexar '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.polymsh_detached23' lo que es estático a él. Abortando.
+[2022.03.08-15.19.07:870][133]PIE: Warning: AttachTo: '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.DefaultSceneRoot' no es estático  (in blueprint "FbxScene_Oblivion_Sky_tower_v20"), no puede anexar '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.cylinder7' lo que es estático a él. Abortando.
+[2022.03.08-15.19.07:870][133]PIE: Warning: AttachTo: '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.DefaultSceneRoot' no es estático  (in blueprint "FbxScene_Oblivion_Sky_tower_v20"), no puede anexar '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.cube12' lo que es estático a él. Abortando.
+[2022.03.08-15.19.07:873][133]PIE: Warning: AttachTo: '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.DefaultSceneRoot' no es estático  (in blueprint "FbxScene_Oblivion_Sky_tower_v20"), no puede anexar '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.polymsh' lo que es estático a él. Abortando.
+[2022.03.08-15.19.07:873][133]PIE: Warning: AttachTo: '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.DefaultSceneRoot' no es estático  (in blueprint "FbxScene_Oblivion_Sky_tower_v20"), no puede anexar '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.cube2' lo que es estático a él. Abortando.
+[2022.03.08-15.19.07:873][133]PIE: Warning: AttachTo: '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.DefaultSceneRoot' no es estático  (in blueprint "FbxScene_Oblivion_Sky_tower_v20"), no puede anexar '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.polymsh_detached' lo que es estático a él. Abortando.
+[2022.03.08-15.19.07:874][133]PIE: Warning: AttachTo: '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.DefaultSceneRoot' no es estático  (in blueprint "FbxScene_Oblivion_Sky_tower_v20"), no puede anexar '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.polymsh1' lo que es estático a él. Abortando.
+[2022.03.08-15.19.07:874][133]PIE: Warning: AttachTo: '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.DefaultSceneRoot' no es estático  (in blueprint "FbxScene_Oblivion_Sky_tower_v20"), no puede anexar '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.cylinder' lo que es estático a él. Abortando.
+[2022.03.08-15.19.07:874][133]PIE: Warning: AttachTo: '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.DefaultSceneRoot' no es estático  (in blueprint "FbxScene_Oblivion_Sky_tower_v20"), no puede anexar '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.polymsh5' lo que es estático a él. Abortando.
+[2022.03.08-15.19.07:874][133]PIE: Warning: AttachTo: '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.DefaultSceneRoot' no es estático  (in blueprint "FbxScene_Oblivion_Sky_tower_v20"), no puede anexar '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.cylinder1' lo que es estático a él. Abortando.
+[2022.03.08-15.19.07:875][133]PIE: Warning: AttachTo: '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.DefaultSceneRoot' no es estático  (in blueprint "FbxScene_Oblivion_Sky_tower_v20"), no puede anexar '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.polymsh_detached2' lo que es estático a él. Abortando.
+[2022.03.08-15.19.07:875][133]PIE: Warning: AttachTo: '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.DefaultSceneRoot' no es estático  (in blueprint "FbxScene_Oblivion_Sky_tower_v20"), no puede anexar '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.cube3' lo que es estático a él. Abortando.
+[2022.03.08-15.19.07:875][133]PIE: Warning: AttachTo: '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.DefaultSceneRoot' no es estático  (in blueprint "FbxScene_Oblivion_Sky_tower_v20"), no puede anexar '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.polymsh_detached3' lo que es estático a él. Abortando.
+[2022.03.08-15.19.07:875][133]PIE: Warning: AttachTo: '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.DefaultSceneRoot' no es estático  (in blueprint "FbxScene_Oblivion_Sky_tower_v20"), no puede anexar '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.cube4' lo que es estático a él. Abortando.
+[2022.03.08-15.19.07:875][133]PIE: Warning: AttachTo: '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.DefaultSceneRoot' no es estático  (in blueprint "FbxScene_Oblivion_Sky_tower_v20"), no puede anexar '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.polymsh_detached4' lo que es estático a él. Abortando.
+[2022.03.08-15.19.07:875][133]PIE: Warning: AttachTo: '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.DefaultSceneRoot' no es estático  (in blueprint "FbxScene_Oblivion_Sky_tower_v20"), no puede anexar '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.polymsh7' lo que es estático a él. Abortando.
+[2022.03.08-15.19.07:876][133]PIE: Warning: AttachTo: '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.DefaultSceneRoot' no es estático  (in blueprint "FbxScene_Oblivion_Sky_tower_v20"), no puede anexar '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.polymsh8' lo que es estático a él. Abortando.
+[2022.03.08-15.19.07:876][133]PIE: Warning: AttachTo: '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.DefaultSceneRoot' no es estático  (in blueprint "FbxScene_Oblivion_Sky_tower_v20"), no puede anexar '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.cube5' lo que es estático a él. Abortando.
+[2022.03.08-15.19.07:876][133]PIE: Warning: AttachTo: '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.DefaultSceneRoot' no es estático  (in blueprint "FbxScene_Oblivion_Sky_tower_v20"), no puede anexar '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.polymsh11' lo que es estático a él. Abortando.
+[2022.03.08-15.19.07:876][133]PIE: Warning: AttachTo: '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.DefaultSceneRoot' no es estático  (in blueprint "FbxScene_Oblivion_Sky_tower_v20"), no puede anexar '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.polymsh12' lo que es estático a él. Abortando.
+[2022.03.08-15.19.07:876][133]PIE: Warning: AttachTo: '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.DefaultSceneRoot' no es estático  (in blueprint "FbxScene_Oblivion_Sky_tower_v20"), no puede anexar '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.polymsh13' lo que es estático a él. Abortando.
+[2022.03.08-15.19.07:877][133]PIE: Warning: AttachTo: '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.DefaultSceneRoot' no es estático  (in blueprint "FbxScene_Oblivion_Sky_tower_v20"), no puede anexar '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.polymsh_detached7' lo que es estático a él. Abortando.
+[2022.03.08-15.19.07:877][133]PIE: Warning: AttachTo: '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.DefaultSceneRoot' no es estático  (in blueprint "FbxScene_Oblivion_Sky_tower_v20"), no puede anexar '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.polymsh20' lo que es estático a él. Abortando.
+[2022.03.08-15.19.07:877][133]PIE: Warning: AttachTo: '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.DefaultSceneRoot' no es estático  (in blueprint "FbxScene_Oblivion_Sky_tower_v20"), no puede anexar '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.cube6' lo que es estático a él. Abortando.
+[2022.03.08-15.19.07:877][133]PIE: Warning: AttachTo: '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.DefaultSceneRoot' no es estático  (in blueprint "FbxScene_Oblivion_Sky_tower_v20"), no puede anexar '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.cube7' lo que es estático a él. Abortando.
+[2022.03.08-15.19.07:877][133]PIE: Warning: AttachTo: '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.DefaultSceneRoot' no es estático  (in blueprint "FbxScene_Oblivion_Sky_tower_v20"), no puede anexar '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.cube8' lo que es estático a él. Abortando.
+[2022.03.08-15.19.07:878][133]PIE: Warning: AttachTo: '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.DefaultSceneRoot' no es estático  (in blueprint "FbxScene_Oblivion_Sky_tower_v20"), no puede anexar '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.cube9' lo que es estático a él. Abortando.
+[2022.03.08-15.19.07:878][133]PIE: Warning: AttachTo: '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.DefaultSceneRoot' no es estático  (in blueprint "FbxScene_Oblivion_Sky_tower_v20"), no puede anexar '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.polymsh_detached10' lo que es estático a él. Abortando.
+[2022.03.08-15.19.07:878][133]PIE: Warning: AttachTo: '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.DefaultSceneRoot' no es estático  (in blueprint "FbxScene_Oblivion_Sky_tower_v20"), no puede anexar '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.polymsh_detached11' lo que es estático a él. Abortando.
+[2022.03.08-15.19.07:878][133]PIE: Warning: AttachTo: '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.DefaultSceneRoot' no es estático  (in blueprint "FbxScene_Oblivion_Sky_tower_v20"), no puede anexar '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.polymsh_detached12' lo que es estático a él. Abortando.
+[2022.03.08-15.19.07:878][133]PIE: Warning: AttachTo: '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.DefaultSceneRoot' no es estático  (in blueprint "FbxScene_Oblivion_Sky_tower_v20"), no puede anexar '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.polymsh23' lo que es estático a él. Abortando.
+[2022.03.08-15.19.07:878][133]PIE: Warning: AttachTo: '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.DefaultSceneRoot' no es estático  (in blueprint "FbxScene_Oblivion_Sky_tower_v20"), no puede anexar '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.polymsh_detached13' lo que es estático a él. Abortando.
+[2022.03.08-15.19.07:879][133]PIE: Warning: AttachTo: '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.DefaultSceneRoot' no es estático  (in blueprint "FbxScene_Oblivion_Sky_tower_v20"), no puede anexar '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.hall_rings' lo que es estático a él. Abortando.
+[2022.03.08-15.19.07:879][133]PIE: Warning: AttachTo: '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.DefaultSceneRoot' no es estático  (in blueprint "FbxScene_Oblivion_Sky_tower_v20"), no puede anexar '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.jars' lo que es estático a él. Abortando.
+[2022.03.08-15.19.07:879][133]PIE: Warning: AttachTo: '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.DefaultSceneRoot' no es estático  (in blueprint "FbxScene_Oblivion_Sky_tower_v20"), no puede anexar '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.polymsh_detached14' lo que es estático a él. Abortando.
+[2022.03.08-15.19.07:879][133]PIE: Warning: AttachTo: '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.DefaultSceneRoot' no es estático  (in blueprint "FbxScene_Oblivion_Sky_tower_v20"), no puede anexar '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.dineer_cups' lo que es estático a él. Abortando.
+[2022.03.08-15.19.07:880][133]PIE: Warning: AttachTo: '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.DefaultSceneRoot' no es estático  (in blueprint "FbxScene_Oblivion_Sky_tower_v20"), no puede anexar '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.cube10' lo que es estático a él. Abortando.
+[2022.03.08-15.19.07:880][133]PIE: Warning: AttachTo: '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.DefaultSceneRoot' no es estático  (in blueprint "FbxScene_Oblivion_Sky_tower_v20"), no puede anexar '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.polymsh24' lo que es estático a él. Abortando.
+[2022.03.08-15.19.07:880][133]PIE: Warning: AttachTo: '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.DefaultSceneRoot' no es estático  (in blueprint "FbxScene_Oblivion_Sky_tower_v20"), no puede anexar '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.polymsh25' lo que es estático a él. Abortando.
+[2022.03.08-15.19.07:880][133]PIE: Warning: AttachTo: '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.DefaultSceneRoot' no es estático  (in blueprint "FbxScene_Oblivion_Sky_tower_v20"), no puede anexar '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.polymsh26' lo que es estático a él. Abortando.
+[2022.03.08-15.19.07:880][133]PIE: Warning: AttachTo: '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.DefaultSceneRoot' no es estático  (in blueprint "FbxScene_Oblivion_Sky_tower_v20"), no puede anexar '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.cylinder3' lo que es estático a él. Abortando.
+[2022.03.08-15.19.07:880][133]PIE: Warning: AttachTo: '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.DefaultSceneRoot' no es estático  (in blueprint "FbxScene_Oblivion_Sky_tower_v20"), no puede anexar '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.polymsh_detached15' lo que es estático a él. Abortando.
+[2022.03.08-15.19.07:881][133]PIE: Warning: AttachTo: '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.DefaultSceneRoot' no es estático  (in blueprint "FbxScene_Oblivion_Sky_tower_v20"), no puede anexar '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.polymsh27' lo que es estático a él. Abortando.
+[2022.03.08-15.19.07:881][133]PIE: Warning: AttachTo: '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.DefaultSceneRoot' no es estático  (in blueprint "FbxScene_Oblivion_Sky_tower_v20"), no puede anexar '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.polymsh_detached16' lo que es estático a él. Abortando.
+[2022.03.08-15.19.07:881][133]PIE: Warning: AttachTo: '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.DefaultSceneRoot' no es estático  (in blueprint "FbxScene_Oblivion_Sky_tower_v20"), no puede anexar '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.polymsh29' lo que es estático a él. Abortando.
+[2022.03.08-15.19.07:881][133]PIE: Warning: AttachTo: '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.DefaultSceneRoot' no es estático  (in blueprint "FbxScene_Oblivion_Sky_tower_v20"), no puede anexar '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.polymsh_detached17' lo que es estático a él. Abortando.
+[2022.03.08-15.19.07:881][133]PIE: Warning: AttachTo: '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.DefaultSceneRoot' no es estático  (in blueprint "FbxScene_Oblivion_Sky_tower_v20"), no puede anexar '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.polymsh_detached18' lo que es estático a él. Abortando.
+[2022.03.08-15.19.07:882][133]PIE: Warning: AttachTo: '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.DefaultSceneRoot' no es estático  (in blueprint "FbxScene_Oblivion_Sky_tower_v20"), no puede anexar '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.cylinder4' lo que es estático a él. Abortando.
+[2022.03.08-15.19.07:882][133]PIE: Warning: AttachTo: '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.DefaultSceneRoot' no es estático  (in blueprint "FbxScene_Oblivion_Sky_tower_v20"), no puede anexar '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.polymsh_detached20' lo que es estático a él. Abortando.
+[2022.03.08-15.19.07:882][133]PIE: Warning: AttachTo: '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.DefaultSceneRoot' no es estático  (in blueprint "FbxScene_Oblivion_Sky_tower_v20"), no puede anexar '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.polymsh31' lo que es estático a él. Abortando.
+[2022.03.08-15.19.07:882][133]PIE: Warning: AttachTo: '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.DefaultSceneRoot' no es estático  (in blueprint "FbxScene_Oblivion_Sky_tower_v20"), no puede anexar '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.polymsh_detached23' lo que es estático a él. Abortando.
+[2022.03.08-15.19.07:882][133]PIE: Warning: AttachTo: '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.DefaultSceneRoot' no es estático  (in blueprint "FbxScene_Oblivion_Sky_tower_v20"), no puede anexar '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.cylinder7' lo que es estático a él. Abortando.
+[2022.03.08-15.19.07:882][133]PIE: Warning: AttachTo: '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.DefaultSceneRoot' no es estático  (in blueprint "FbxScene_Oblivion_Sky_tower_v20"), no puede anexar '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.FbxScene_Oblivion_Sky_tower_v20_C_0.cube12' lo que es estático a él. Abortando.
+[2022.03.08-15.19.07:997][133]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/LevelPrototyping/Meshes/FbxScene_Oblivion_Sky_tower_v20.FbxScene_Oblivion_Sky_tower_v20
+[2022.03.08-15.19.08:046][133]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
